@@ -189,7 +189,6 @@ void SysTick_Handler(void)
 
   /* USER CODE END SysTick_IRQn 0 */
   HAL_IncTick();
-  
   /* USER CODE BEGIN SysTick_IRQn 1 */
 
     sl_1ms_clock();

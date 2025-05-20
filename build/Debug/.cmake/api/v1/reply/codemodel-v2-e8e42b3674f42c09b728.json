@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "FW_PID_HEAT::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-FW_PID_HEAT-Debug-bee8d789f5a405fd0ada.json",
+					"jsonFile" : "target-FW_PID_HEAT-Debug-16cbd94fdea5fc110aa2.json",
 					"name" : "FW_PID_HEAT",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/build/Debug",
-		"source" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT"
+		"build" : "C:/GIT_PROJECTS/FW_PID_HEAT/build/Debug",
+		"source" : "C:/GIT_PROJECTS/FW_PID_HEAT"
 	},
 	"version" : 
 	{

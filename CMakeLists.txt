@@ -42,6 +42,7 @@ set(sources_SRCS
 ${PROJ_PATH}/Middleware/SuperLoop/sl_lib.c
 ${PROJ_PATH}/Middleware/SuperLoop/sl.c
 ${PROJ_PATH}/HMI/Src/hmi.c
+${PROJ_PATH}/HD44780/LCD_HD44780.c
 
 ${PROJ_PATH}/Core/Src/sysmem.c 
 ${PROJ_PATH}/Core/Src/system_stm32f1xx.c 
@@ -73,6 +74,7 @@ set(include_path_DIRS
 
 ${PROJ_PATH}/Core/Inc 
 ${PROJ_PATH}/HMI/Inc
+${PROJ_PATH}/HD44780
 
 ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Inc 
 ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy 

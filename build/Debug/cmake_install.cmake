@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT
+# Install script for directory: C:/GIT_PROJECTS/FW_PID_HEAT
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/build/Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/GIT_PROJECTS/FW_PID_HEAT/build/Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
