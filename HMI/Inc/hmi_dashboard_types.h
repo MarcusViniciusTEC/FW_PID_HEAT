@@ -1,0 +1,4 @@
+#ifndef __HMI_DASHBOARD_TYPES_H
+#define __HMI_DASHBOARD_TYPES_H
+
+#endif

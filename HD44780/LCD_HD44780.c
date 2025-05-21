@@ -163,7 +163,7 @@ static void vLCD_HD44780_Delay_ms(uint8_t ms)
 void vLCD_HD44780_Init(void)
 {
     /* Wait VCC be stable*/
-    //HAL_Delay(20);
+    HAL_Delay(20);
 
     /* Set cursor pointer to beginning for LCD */
     LCD_HD44780_Opts.currentX = 0;

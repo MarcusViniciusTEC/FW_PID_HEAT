@@ -22,7 +22,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
-
+#include "LCD_HD44780.h"
 
 /* USER CODE END Includes */
 
@@ -90,6 +90,7 @@ int main(void)
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
   sl_init();
+  vLCD_HD44780_Init();
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -100,8 +101,6 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 
-    HAL_GPIO_TogglePin(BOARD_LED_GPIO_Port, BOARD_LED_Pin);
-    HAL_Delay(100);
     sl_update();
   }
   /* USER CODE END 3 */
@@ -160,8 +159,8 @@ static void MX_GPIO_Init(void)
   /* GPIO Ports Clock Enable */
   __HAL_RCC_GPIOC_CLK_ENABLE();
   __HAL_RCC_GPIOD_CLK_ENABLE();
-  __HAL_RCC_GPIOA_CLK_ENABLE();
   __HAL_RCC_GPIOB_CLK_ENABLE();
+  __HAL_RCC_GPIOA_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(BOARD_LED_GPIO_Port, BOARD_LED_Pin, GPIO_PIN_RESET);
@@ -179,6 +178,12 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(BOARD_LED_GPIO_Port, &GPIO_InitStruct);
+
+  /*Configure GPIO pins : BT_RIGHT_Pin BT_UP_Pin BT_DOWN_Pin BT_LEFT_Pin */
+  GPIO_InitStruct.Pin = BT_RIGHT_Pin|BT_UP_Pin|BT_DOWN_Pin|BT_LEFT_Pin;
+  GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
 
   /*Configure GPIO pins : LCD_RS_Pin LCD_EN_Pin LCD_DB4_Pin LCD_DB5_Pin
                            LCD_DB6_Pin LCD_DB7_Pin */

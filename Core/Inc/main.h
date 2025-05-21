@@ -59,6 +59,14 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define BOARD_LED_Pin GPIO_PIN_13
 #define BOARD_LED_GPIO_Port GPIOC
+#define BT_RIGHT_Pin GPIO_PIN_12
+#define BT_RIGHT_GPIO_Port GPIOB
+#define BT_UP_Pin GPIO_PIN_13
+#define BT_UP_GPIO_Port GPIOB
+#define BT_DOWN_Pin GPIO_PIN_14
+#define BT_DOWN_GPIO_Port GPIOB
+#define BT_LEFT_Pin GPIO_PIN_15
+#define BT_LEFT_GPIO_Port GPIOB
 #define LCD_RS_Pin GPIO_PIN_8
 #define LCD_RS_GPIO_Port GPIOA
 #define LCD_EN_Pin GPIO_PIN_9

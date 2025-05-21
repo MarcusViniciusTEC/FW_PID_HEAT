@@ -24,7 +24,8 @@
         "buttons_types.h": "c",
         "buttons_cfg.h": "c",
         "hmi_dashboard.h": "c",
-        "ssd1306.h": "c"
+        "ssd1306.h": "c",
+        "lcd_hd44780.h": "c"
     }
 
 }
