@@ -100,6 +100,7 @@ void hmi_update(void)
         break;
     case HMI_SHOWING_UPDATE_DATA:
         hmi_buttons_update_state();
+        hmi_ctrl.state = HMI_SHOWING_DATA;
         break;
     default:
         break;
