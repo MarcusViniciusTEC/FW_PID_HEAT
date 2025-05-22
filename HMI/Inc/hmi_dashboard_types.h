@@ -16,8 +16,9 @@ typedef enum
 {
     CURSOR_STATE_IDLE = 0U,
     CURSOR_STATE_SHOW_NUMBER,
-    CURSOR_STATE_WAIT_DELAY,
+    CURSOR_STATE_WAIT_HIDE_DELAY,
     CURSOR_STATE_HIDE_NUMBER,
+    CURSOR_STATE_WAIT_SHOW_DELAY
 }hmi_cursor_blnk_state_t;
 
 typedef enum
@@ -33,11 +34,12 @@ typedef struct
 
 typedef struct 
 {
-    hmi_index_digits_t index;
-    uint32_t  cursor_blnk_ms;
-    uint32_t  last_cursor_blnk_ms;
-    uint32_t  current_cursor_blnk_ms;
     hmi_cursor_blnk_state_t cursor_blnk_state;
+    hmi_cursor_state_t cursor_state;
+    hmi_index_digits_t index;
+    uint32_t last_time_show_cursor;
+    uint32_t last_time_hide_cursor;
+    
 }hmi_ctrl_t;
 
 

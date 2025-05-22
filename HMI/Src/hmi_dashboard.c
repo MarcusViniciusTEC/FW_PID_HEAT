@@ -13,7 +13,9 @@ static void hmi_dashboard_increment_setpoint(void);
 static void hmi_dashboard_decrement_setpoint(void);
 static void hmi_dashboard_increment_index(void);
 static void hmi_dashboard_decrement_index(void);
-static void hmi_dashboard_blnk_digit(uint8_t digit);
+static void hmi_dashboard_hide_digit(void);
+static void hmi_dashboard_blnk_cursor(void);
+void hmi_dashboard_1ms(void);
 
 /******************************************************************************/
 
@@ -28,18 +30,31 @@ void hmi_dashboard_init()
     hmi_edit_value.setpoint[INDEX_SECOND_DIGIT] = 9;
     hmi_edit_value.setpoint[INDEX_THIRD_DIGIT] = 3;
 
-    hmi_ctrl.cursor_blnk_ms = 200;
+    hmi_ctrl.cursor_state = CURSOR_BLINK_ON;
 
 }        
 
 /******************************************************************************/
 
-static void hmi_dashboard_blnk_digit(uint8_t digit)
+static void hmi_dashboard_hide_digit(void)
 {
-
+    switch ((hmi_index_digits_t)hmi_ctrl.index)
+    {
+    case INDEX_FIRST_DIGIT:
+        vLCD_HD44780_Puts(4, 0, " ");
+        break;
+    case INDEX_SECOND_DIGIT:
+        vLCD_HD44780_Puts(5, 0, " ");
+        break;
+    case INDEX_THIRD_DIGIT:
+        vLCD_HD44780_Puts(7, 0, " ");
+        break;
+    default:
+        break;
+    }
 }
 
-
+/******************************************************************************/
 
 static void hmi_dashboard_increment_setpoint(void)
 {
@@ -137,19 +152,62 @@ void hmi_dashboard_show_screen()
 
 /******************************************************************************/
 
+void hmi_dashboard_1ms(void)
+{
+
+}
+
+/******************************************************************************/
+
+static void hmi_dashboard_blnk_cursor(void)
+{
+    switch (hmi_ctrl.cursor_blnk_state)
+    {
+    case CURSOR_STATE_IDLE:
+        hmi_ctrl.cursor_blnk_state = CURSOR_STATE_SHOW_NUMBER;
+        break;
+    case CURSOR_STATE_SHOW_NUMBER:
+        hmi_dashboard_show_setpoint();  
+        hmi_ctrl.last_time_show_cursor = HAL_GetTick();
+        hmi_ctrl.cursor_blnk_state = CURSOR_STATE_WAIT_SHOW_DELAY;
+        break;
+    case CURSOR_STATE_WAIT_SHOW_DELAY:
+        if(HAL_GetTick() - hmi_ctrl.last_time_show_cursor >= 300)
+        {
+            hmi_ctrl.cursor_blnk_state = CURSOR_STATE_HIDE_NUMBER;
+        }
+        break;
+    case CURSOR_STATE_HIDE_NUMBER:
+        hmi_dashboard_hide_digit();
+        hmi_ctrl.last_time_hide_cursor = HAL_GetTick();
+        hmi_ctrl.cursor_blnk_state = CURSOR_STATE_WAIT_HIDE_DELAY;
+        break;
+    case CURSOR_STATE_WAIT_HIDE_DELAY:
+        if(HAL_GetTick() - hmi_ctrl.last_time_hide_cursor >= 30)
+        {
+            hmi_ctrl.cursor_blnk_state = CURSOR_STATE_IDLE;
+        }
+        break;
+    default:
+        break;
+    }
+}
+
+/******************************************************************************/
+
 void hmi_dashboard_update_data()
 {
-    static uint32_t current_tick =0;
-    static uint32_t last_tick = 0;
-
-    current_tick = HAL_GetTick();
-
-    if(current_tick - last_tick >= 500)
+    switch (hmi_ctrl.cursor_state)
     {
-        //vLCD_HD44780_Puts(5, 1, " ");
-        last_tick = current_tick;
+    case CURSOR_BLINK_ON:
+        hmi_dashboard_blnk_cursor();
+        break;
+    case CURSOR_BLINK_OFF:
+        
+        break;
+    default:
+        break;
     }
-   hmi_dashboard_show_setpoint();
 }      
 
 /******************************************************************************/

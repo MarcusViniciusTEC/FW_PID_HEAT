@@ -8,7 +8,7 @@ extern volatile uint32_t hmi_execution_rate_1ms_timer;
 
 #define hmi_pexecution_rate_1ms_timer (&hmi_execution_rate_1ms_timer)
 
-#define HMI_EXECUTION_RATE_1MS_TIME    		100
+#define HMI_EXECUTION_RATE_1MS_TIME    		30
 
 #include "buttons_types.h"
 #include "hmi_types.h"

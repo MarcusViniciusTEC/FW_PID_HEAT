@@ -23,6 +23,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
+#include "hmi_dashboard.h"
 
 
 /* USER CODE END Includes */
@@ -192,6 +193,7 @@ void SysTick_Handler(void)
   /* USER CODE BEGIN SysTick_IRQn 1 */
 
     sl_1ms_clock();
+    hmi_dashboard_1ms();
   /* USER CODE END SysTick_IRQn 1 */
 }
 
