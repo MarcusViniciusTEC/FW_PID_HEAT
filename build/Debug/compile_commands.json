@@ -151,6 +151,18 @@
 },
 {
   "directory": "C:/Users/MV/GIT/FW_PID_HEAT/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IC:/Users/MV/GIT/FW_PID_HEAT/App/Middleware/SuperLoop -IC:/Users/MV/GIT/FW_PID_HEAT/Core/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/HMI/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/HD44780 -IC:/Users/MV/GIT/FW_PID_HEAT/App/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Include -g -std=gnu11 -mthumb -mcpu=cortex-m3 -mfloat-abi=soft -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\FW_PID_HEAT.dir\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc.c.obj -c C:\\Users\\MV\\GIT\\FW_PID_HEAT\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc.c",
+  "file": "C:\\Users\\MV\\GIT\\FW_PID_HEAT\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc.c",
+  "output": "CMakeFiles\\FW_PID_HEAT.dir\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc.c.obj"
+},
+{
+  "directory": "C:/Users/MV/GIT/FW_PID_HEAT/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IC:/Users/MV/GIT/FW_PID_HEAT/App/Middleware/SuperLoop -IC:/Users/MV/GIT/FW_PID_HEAT/Core/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/HMI/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/HD44780 -IC:/Users/MV/GIT/FW_PID_HEAT/App/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Include -g -std=gnu11 -mthumb -mcpu=cortex-m3 -mfloat-abi=soft -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\FW_PID_HEAT.dir\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc_ex.c.obj -c C:\\Users\\MV\\GIT\\FW_PID_HEAT\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc_ex.c",
+  "file": "C:\\Users\\MV\\GIT\\FW_PID_HEAT\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc_ex.c",
+  "output": "CMakeFiles\\FW_PID_HEAT.dir\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc_ex.c.obj"
+},
+{
+  "directory": "C:/Users/MV/GIT/FW_PID_HEAT/build/Debug",
   "command": "C:\\ST\\STM32CubeCLT\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IC:/Users/MV/GIT/FW_PID_HEAT/App/Middleware/SuperLoop -IC:/Users/MV/GIT/FW_PID_HEAT/Core/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/HMI/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/HD44780 -IC:/Users/MV/GIT/FW_PID_HEAT/App/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Include -g -mthumb -mcpu=cortex-m3 -mfloat-abi=soft -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\FW_PID_HEAT.dir\\Core\\Startup\\startup_stm32f103c8tx.s.obj -c C:\\Users\\MV\\GIT\\FW_PID_HEAT\\Core\\Startup\\startup_stm32f103c8tx.s",
   "file": "C:\\Users\\MV\\GIT\\FW_PID_HEAT\\Core\\Startup\\startup_stm32f103c8tx.s",
   "output": "CMakeFiles\\FW_PID_HEAT.dir\\Core\\Startup\\startup_stm32f103c8tx.s.obj"

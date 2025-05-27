@@ -172,7 +172,7 @@ static void hmi_dashboard_blnk_cursor(void)
         hmi_ctrl.cursor_blnk_state = CURSOR_STATE_WAIT_SHOW_DELAY;
         break;
     case CURSOR_STATE_WAIT_SHOW_DELAY:
-        if(HAL_GetTick() - hmi_ctrl.last_time_show_cursor >= 300)
+        if(HAL_GetTick() - hmi_ctrl.last_time_show_cursor >= TIME_BLINK_SHOW_CURSOR)
         {
             hmi_ctrl.cursor_blnk_state = CURSOR_STATE_HIDE_NUMBER;
         }
@@ -183,7 +183,7 @@ static void hmi_dashboard_blnk_cursor(void)
         hmi_ctrl.cursor_blnk_state = CURSOR_STATE_WAIT_HIDE_DELAY;
         break;
     case CURSOR_STATE_WAIT_HIDE_DELAY:
-        if(HAL_GetTick() - hmi_ctrl.last_time_hide_cursor >= 30)
+        if(HAL_GetTick() - hmi_ctrl.last_time_hide_cursor >= TIME_BLINK_HIDE_CURSOR)
         {
             hmi_ctrl.cursor_blnk_state = CURSOR_STATE_IDLE;
         }
@@ -201,9 +201,14 @@ void hmi_dashboard_update_data()
     {
     case CURSOR_BLINK_ON:
         hmi_dashboard_blnk_cursor();
+        if(HAL_GetTick() - hmi_ctrl.last_time_blnk_cursor >= TIME_BLINK_CURSOR)
+        {
+            hmi_ctrl.cursor_state = CURSOR_BLINK_OFF;
+            hmi_dashboard_show_setpoint();   
+        }
         break;
     case CURSOR_BLINK_OFF:
-        
+        hmi_ctrl.last_time_blnk_cursor = HAL_GetTick();
         break;
     default:
         break;
@@ -223,7 +228,18 @@ void hmi_dashboard_update_button(button_id_t button_id, button_press_type_t butt
         hmi_dashboard_decrement_setpoint();
         break;
     case BUTTON_LEFT_ID:
-        hmi_dashboard_decrement_index();
+        switch (button_press_type)
+        {
+        case BUTTON_SHORT_PRESS:
+         hmi_dashboard_decrement_index();           
+            break;
+        case BUTTON_LONG_PRESS:
+            
+            break;
+        default:
+            break;
+        }
+
         break;
     case BUTTON_RIGHT_ID:
         hmi_dashboard_increment_index();
@@ -231,6 +247,7 @@ void hmi_dashboard_update_button(button_id_t button_id, button_press_type_t butt
     default:
         break;
     }
-
+    hmi_ctrl.cursor_state = CURSOR_BLINK_ON;
+    hmi_ctrl.last_time_blnk_cursor = HAL_GetTick();
     hmi_dashboard_show_setpoint();
 }   
