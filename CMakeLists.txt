@@ -57,6 +57,8 @@ ${PROJ_PATH}/Core/Src/main.c
 ${PROJ_PATH}/Middleware/SuperLoop/sl_lib.c
 ${PROJ_PATH}/Middleware/SuperLoop/sl.c
 
+${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c 
+${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c
 ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c 
 ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c 
 ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c 
@@ -79,7 +81,7 @@ ${PROJ_PATH}/Core/Startup/startup_stm32f103c8tx.s
 set(include_path_DIRS
 
 
-${PROJ_PATH}/App/Middleware/SuperLoop
+${PROJ_PATH}/Middleware/SuperLoop
 ${PROJ_PATH}/Core/Inc 
 ${PROJ_PATH}/HMI/Inc
 ${PROJ_PATH}/HD44780

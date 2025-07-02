@@ -52,7 +52,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -SC:\Users\MV\GIT\FW_PID_HEAT -BC:\Users\MV\GIT\FW_PID_HEAT\build\Debug
+  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -SC:\Users\marcu\Documents\STM_PROJECTS\FW_ESTUFA\FW_PID_HEAT -BC:\Users\marcu\Documents\STM_PROJECTS\FW_ESTUFA\FW_PID_HEAT\build\Debug
   description = Re-running CMake...
   generator = 1
 

@@ -28,31 +28,31 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 108,
+				"line" : 110,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 128,
+				"line" : 130,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 117,
+				"line" : 119,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 114,
+				"line" : 116,
 				"parent" : 0
 			},
 			{
 				"command" : 4,
 				"file" : 0,
-				"line" : 111,
+				"line" : 113,
 				"parent" : 0
 			}
 		]
@@ -125,39 +125,39 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/App/Middleware/SuperLoop"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Middleware/SuperLoop"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Core/Inc"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Core/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/HMI/Inc"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/HMI/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/HD44780"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/HD44780"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/App/Inc"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/App/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Include"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -195,7 +195,9 @@
 				21,
 				22,
 				23,
-				24
+				24,
+				25,
+				26
 			]
 		},
 		{
@@ -264,45 +266,45 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/App/Middleware/SuperLoop"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Middleware/SuperLoop"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Core/Inc"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Core/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/HMI/Inc"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/HMI/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/HD44780"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/HD44780"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/App/Inc"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/App/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/MV/GIT/FW_PID_HEAT/Drivers/CMSIS/Include"
+					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				25
+				27
 			]
 		}
 	],
@@ -321,7 +323,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-TC:/Users/MV/GIT/FW_PID_HEAT/STM32F103C8TX_FLASH.ld",
+				"fragment" : "-TC:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/STM32F103C8TX_FLASH.ld",
 				"role" : "flags"
 			},
 			{
@@ -434,14 +436,16 @@
 				21,
 				22,
 				23,
-				24
+				24,
+				25,
+				26
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				25
+				27
 			]
 		}
 	],
@@ -529,6 +533,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Middleware/SuperLoop/sl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c",
 			"sourceGroupIndex" : 0
 		},
 		{
