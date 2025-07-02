@@ -24,6 +24,7 @@
 
 #include "LCD_HD44780.h"
 #include "sl.h"
+#include "adc.h"
 #include <stdio.h>
 
 /* USER CODE END Includes */
@@ -31,7 +32,7 @@
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 
-uint16_t adc_raw[2] = {0};
+uint16_t adc_buffer[2] = {0};
 
 /* USER CODE END PTD */
 
@@ -101,7 +102,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
   sl_init();
   vLCD_HD44780_Init();
-  HAL_ADC_Start_DMA(&hadc1, (uint32_t*) adc_raw, 2);
+  HAL_ADC_Start_DMA(&hadc1, (uint32_t*) adc_buffer, 2);
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -114,9 +115,7 @@ int main(void)
 
     sl_update();
 
-    char sz_string[20] = {0};
-    snprintf(sz_string, sizeof(sz_string), "%d", adc_raw[0]);
-    vLCD_HD44780_Puts(2, 2, sz_string);
+
   }
   /* USER CODE END 3 */
 }
