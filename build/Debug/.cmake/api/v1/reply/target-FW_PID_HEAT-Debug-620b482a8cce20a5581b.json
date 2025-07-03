@@ -125,39 +125,39 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Middleware/SuperLoop"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Middleware/SuperLoop"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Core/Inc"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Core/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/HMI/Inc"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/HMI/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/HD44780"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/HD44780"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/App/Inc"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/App/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/CMSIS/Include"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -270,39 +270,39 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Middleware/SuperLoop"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Middleware/SuperLoop"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Core/Inc"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Core/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/HMI/Inc"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/HMI/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/HD44780"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/HD44780"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/App/Inc"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/App/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/Drivers/CMSIS/Include"
+					"path" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
@@ -327,7 +327,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-TC:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/STM32F103C8TX_FLASH.ld",
+				"fragment" : "-TC:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/STM32F103C8TX_FLASH.ld",
 				"role" : "flags"
 			},
 			{

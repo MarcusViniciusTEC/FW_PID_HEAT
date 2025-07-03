@@ -10,6 +10,10 @@ extern volatile uint32_t app_execution_rate_1ms_timer;
 
 #define APP_EXECUTION_RATE_1MS_TIME    100
 
+#define R0  (float) 100.0
+#define A   (float) 0.0039083
+#define B   (float)-0.0000005775
+
 
 void app_1ms_clock(void);
 void app_init(void);

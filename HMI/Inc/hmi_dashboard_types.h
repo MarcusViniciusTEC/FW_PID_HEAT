@@ -39,8 +39,8 @@ typedef struct
     hmi_index_digits_t index;
     uint32_t last_time_show_cursor;
     uint32_t last_time_hide_cursor;
-    
-}hmi_ctrl_t;
+    uint32_t last_time_blnk_cursor;   
+}hmi_dahsboard_ctrl_t;
 
 
 

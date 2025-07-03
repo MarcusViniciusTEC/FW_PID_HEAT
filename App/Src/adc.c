@@ -4,50 +4,33 @@
 
 /***********************************************************************************/
 
-extern uint16_t adc_buffer[1];
+extern uint16_t adc_buffer[ADC_NUMBER_OF_CHANNELS];
 volatile uint32_t adc_execution_rate_1ms_timer;
 
 /***********************************************************************************/
 
-typedef struct 
-{
-    uint16_t adc_raw;
-    uint8_t  adc_porcentage;
-    uint8_t channel;
-}adc_value_t;
-
-// typedef struct
-// {
-//     ADC_0 = 0U,
-//     ADC_1
-// }adc_channels_t;
-
-/***********************************************************************************/
-
-uint16_t adc_get_value(uint8_t channel);
-uint16_t filter_adc(uint8_t channel);
-
+uint16_t adc_get_value(adc_channels_t adc);
+uint16_t filter_adc(adc_channels_t adc);
 static adc_value_t adc_value = {0};
 
 /***********************************************************************************/
 
-uint16_t adc_get_value(uint8_t channel)
+uint16_t adc_get_value(adc_channels_t adc)
 {
-    adc_value.channel = channel;
-    return adc_value.adc_raw;
+    return adc_value.adc_raw[adc];
 }
 
 /***********************************************************************************/
 
-uint16_t filter_adc(uint8_t channel)
+uint16_t filter_adc(adc_channels_t adc)
 {
-    uint32_t adc_filtered = 0;
+    uint32_t adc_filtered[ADC_NUMBER_OF_CHANNELS]  = {0}; 
 
     for(uint16_t samples = 0; samples < NUMBER_OF_SAMPLES; samples++)
     {
-        adc_filtered += adc_buffer[channel];
+        adc_filtered[adc] += adc_buffer[adc];
     }
-    return (adc_filtered/NUMBER_OF_SAMPLES);
+    return (adc_filtered[adc]/NUMBER_OF_SAMPLES);
 }
 
 /***********************************************************************************/
@@ -68,7 +51,10 @@ void adc_init(void)
 
 void adc_update(void)
 {
-    adc_value.adc_raw = filter_adc(adc_value.channel);
+    for(uint8_t channel = 0; channel < ADC_NUMBER_OF_CHANNELS; channel++ )
+    {
+        adc_value.adc_raw[channel] = filter_adc(channel);
+    }
 }
 
 /***********************************************************************************/
