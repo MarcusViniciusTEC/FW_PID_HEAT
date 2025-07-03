@@ -73,6 +73,8 @@ ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
 ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c 
 ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c 
 ${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
+${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c 
+${PROJ_PATH}/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
 
 ${PROJ_PATH}/Core/Startup/startup_stm32f103c8tx.s
 

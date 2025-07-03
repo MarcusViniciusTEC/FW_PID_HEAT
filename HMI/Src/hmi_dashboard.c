@@ -148,6 +148,10 @@ void hmi_dashboard_show_screen()
     hmi_dashboard_show_datahour();
     hmi_dashboard_show_temperature();
     hmi_dashboard_show_setpoint();
+    
+    //HAL_GPIO_WritePin(PWM_FAN_GPIO_Port, PWM_FAN_Pin, GPIO_PIN_SET);
+    HAL_GPIO_WritePin(RELE_LAMP_GPIO_Port, RELE_LAMP_Pin, GPIO_PIN_SET);
+    HAL_GPIO_WritePin(LAMP_ENABLE_GPIO_Port, LAMP_ENABLE_Pin, GPIO_PIN_SET);
 }     
 
 /******************************************************************************/
@@ -174,7 +178,9 @@ static void hmi_dashboard_blnk_cursor(void)
     case CURSOR_STATE_WAIT_SHOW_DELAY:
         if(HAL_GetTick() - hmi_ctrl.last_time_show_cursor >= 300)
         {
+            
             hmi_ctrl.cursor_blnk_state = CURSOR_STATE_HIDE_NUMBER;
+            
         }
         break;
     case CURSOR_STATE_HIDE_NUMBER:
