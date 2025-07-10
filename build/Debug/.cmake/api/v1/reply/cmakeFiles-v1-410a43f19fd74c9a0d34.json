@@ -132,8 +132,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT/build/Debug",
-		"source" : "C:/Users/MV/GIT/fw_pid_heat2/FW_PID_HEAT"
+		"build" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT/build/Debug",
+		"source" : "C:/Users/marcu/Documents/STM_PROJECTS/FW_ESTUFA/FW_PID_HEAT"
 	},
 	"version" : 
 	{

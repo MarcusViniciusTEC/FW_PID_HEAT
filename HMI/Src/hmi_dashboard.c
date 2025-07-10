@@ -3,6 +3,7 @@
 #include "LCD_HD44780.h"
 #include "hmi_dashboard_types.h"
 #include "stdio.h"
+#include "app.h"
 
 /******************************************************************************/
 
@@ -27,9 +28,9 @@ static hmi_dahsboard_ctrl_t hmi_dahsboard_ctrl = {0};
 
 void hmi_dashboard_init()
 {
-    hmi_edit_value.setpoint[INDEX_FIRST_DIGIT] = 2;
-    hmi_edit_value.setpoint[INDEX_SECOND_DIGIT] = 9;
-    hmi_edit_value.setpoint[INDEX_THIRD_DIGIT] = 3;
+    hmi_edit_value.setpoint[INDEX_FIRST_DIGIT] = 4;
+    hmi_edit_value.setpoint[INDEX_SECOND_DIGIT] = 0;
+    hmi_edit_value.setpoint[INDEX_THIRD_DIGIT] = 0;
 
     hmi_dahsboard_ctrl .cursor_state = CURSOR_BLINK_ON;
 
@@ -40,11 +41,9 @@ void hmi_dashboard_init()
 uint16_t hmi_dashboard_get_setpoint(void)
 {
     uint16_t value = 0;
-
     value += hmi_edit_value.setpoint[INDEX_FIRST_DIGIT] * 100;
     value += hmi_edit_value.setpoint[INDEX_SECOND_DIGIT] * 10;
     value += hmi_edit_value.setpoint[INDEX_THIRD_DIGIT];
-
     return value;
 }
 
@@ -137,10 +136,29 @@ static void hmi_dashboard_show_datahour(void)
 
 /******************************************************************************/
 
+static void hmi_dashboard_show_heat_state(void)
+{
+    app_heat_state_t state =  app_get_heat_state();
+    switch (state)
+    {
+    case HEAT_OFF:
+        vLCD_HD44780_Puts(12, 0, "HEAT OFF");
+        break;
+    case HEAT_ON:
+        vLCD_HD44780_Puts(12, 0, "HEAT ON ");
+        break;
+    default:
+        break;
+    }
+}
+
+
+/******************************************************************************/
+
 static void hmi_dashboard_show_setpoint(void)
 {
     char sz_string[20] = {0};
-    snprintf(sz_string, sizeof(sz_string), "PV: %u%u.%u%s",
+    snprintf(sz_string, sizeof(sz_string), "SP: %u%u.%u%s",
     hmi_edit_value.setpoint[INDEX_FIRST_DIGIT], 
     hmi_edit_value.setpoint[INDEX_SECOND_DIGIT],
     hmi_edit_value.setpoint[INDEX_THIRD_DIGIT], "'C");
@@ -151,7 +169,11 @@ static void hmi_dashboard_show_setpoint(void)
 
 static void hmi_dashboard_show_temperature(void)
 {
-    vLCD_HD44780_Puts(0, 1, "PV: 33.0'C");
+    char sz_string[20] = {0};
+    snprintf(sz_string, sizeof(sz_string), "PV: %u.%u%s",
+    (app_get_temperature()/10), 
+    (app_get_temperature()%10), "'C");
+    vLCD_HD44780_Puts(0, 1, sz_string);
 }
 
 /******************************************************************************/
@@ -160,12 +182,7 @@ void hmi_dashboard_show_screen()
 {
     vLCD_HD44780_Clear();
     hmi_dashboard_show_datahour();
-    hmi_dashboard_show_temperature();
     hmi_dashboard_show_setpoint();
-    
-    //HAL_GPIO_WritePin(PWM_FAN_GPIO_Port, PWM_FAN_Pin, GPIO_PIN_SET);
-    HAL_GPIO_WritePin(RELE_LAMP_GPIO_Port, RELE_LAMP_Pin, GPIO_PIN_SET);
-    HAL_GPIO_WritePin(LAMP_ENABLE_GPIO_Port, LAMP_ENABLE_Pin, GPIO_PIN_SET);
 }     
 
 /******************************************************************************/
@@ -192,9 +209,7 @@ static void hmi_dashboard_blnk_cursor(void)
     case CURSOR_STATE_WAIT_SHOW_DELAY:
         if(HAL_GetTick() - hmi_dahsboard_ctrl.last_time_show_cursor >= 300)
         {
-            
-            hmi_dahsboard_ctrl.cursor_blnk_state = CURSOR_STATE_HIDE_NUMBER;
-            
+            hmi_dahsboard_ctrl.cursor_blnk_state = CURSOR_STATE_HIDE_NUMBER;    
         }
         break;
     case CURSOR_STATE_HIDE_NUMBER:
@@ -233,6 +248,9 @@ void hmi_dashboard_update_data()
     default:
         break;
     }
+
+    hmi_dashboard_show_temperature();
+    hmi_dashboard_show_heat_state();
 }      
 
 /******************************************************************************/
