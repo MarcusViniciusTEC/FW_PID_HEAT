@@ -3,7 +3,7 @@
 
 /******************************************************************************/
 
-#define SL_NUMBER_OF_TASKS                          3
+#define SL_NUMBER_OF_TASKS                          4
 
 /******************************************************************************/
 
@@ -38,6 +38,16 @@
     APP_EXECUTION_RATE_1MS_TIME,                     \
     SL_STATUS_ENABLED                                \
   }                                                  \
+  ,                                                \
+  {/*03-app*/                                        \
+    pid_1ms_clock,                SL_STATUS_ENABLED, \
+    pid_init,                     SL_STATUS_ENABLED, \
+    pid_update,                   SL_STATUS_ENABLED, \
+    pid_deinit,                   SL_STATUS_ENABLED, \
+    pid_pexecution_rate_1ms_timer,                   \
+    PID_EXECUTION_RATE_1MS_TIME,                     \
+    SL_STATUS_ENABLED                                \
+  }                                                  \
 }
 
 /******************************************************************************/
@@ -48,7 +58,7 @@
 // #include "mb.h"
 // #include "tmp.h"
 // #include "din.h"
-// #include "dout.h"
+#include "pid.h"
 #include "app.h"
 #include "hmi.h"
 //#include "wlog.h"

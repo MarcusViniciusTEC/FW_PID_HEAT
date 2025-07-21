@@ -27,7 +27,8 @@
         "ssd1306.h": "c",
         "lcd_hd44780.h": "c",
         "hmi_dashboard_types.h": "c",
-        "hmi_dashboard_cfg.h": "c"
+        "hmi_dashboard_cfg.h": "c",
+        "hmi_menu_types.h": "c"
     }
 
 }

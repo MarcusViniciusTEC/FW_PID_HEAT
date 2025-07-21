@@ -44,10 +44,13 @@ ${PROJ_PATH}/HMI/Src/hmi.c
 ${PROJ_PATH}/HMI/Src/hmi_dashboard.c
 ${PROJ_PATH}/HMI/Src/hmi_menu.c
 ${PROJ_PATH}/HMI/Src/hmi_intro.c
+${PROJ_PATH}/HMI/Src/hmi_pid.c
+
 ${PROJ_PATH}/HD44780/LCD_HD44780.c
 ${PROJ_PATH}/App/Src/buttons.c
 ${PROJ_PATH}/App/Src/adc.c
 ${PROJ_PATH}/App/Src/app.c
+${PROJ_PATH}/App/Src/pid.c
 
 
 ${PROJ_PATH}/Core/Src/sysmem.c 

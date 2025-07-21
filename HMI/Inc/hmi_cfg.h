@@ -7,11 +7,12 @@
 #include "hmi.h"
 #include "hmi_intro.h"
 #include "hmi_dashboard.h"
+#include "hmi_pid.h"
 
 
 /*******************************************************************************/
 
-#define HMI_NUMBER_OF_SCREENS 3
+#define HMI_NUMBER_OF_SCREENS 4
 
 /*******************************************************************************/
 
@@ -39,6 +40,14 @@
         hmi_dashboard_show_screen,          \
         hmi_dashboard_update_data,          \
         hmi_dashboard_update_button,        \
+    }                                       \
+    ,                                       \
+    {                                       \
+        HMI_ID_SCREEN_PID,                  \
+        hmi_pid_init,                       \
+        hmi_pid_show_screen,                \
+        hmi_pid_update_data,                \
+        hmi_pid_update_button,              \
     }                                       \
 }
 

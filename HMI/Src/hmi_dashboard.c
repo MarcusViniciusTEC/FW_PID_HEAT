@@ -1,9 +1,11 @@
 
 #include "hmi_menu.h"
+#include "hmi.h"
 #include "LCD_HD44780.h"
 #include "hmi_dashboard_types.h"
 #include "stdio.h"
 #include "app.h"
+#include "pid.h"
 
 /******************************************************************************/
 
@@ -251,6 +253,10 @@ void hmi_dashboard_update_data()
 
     hmi_dashboard_show_temperature();
     hmi_dashboard_show_heat_state();
+
+    char sz_string[20] = {0};
+    snprintf(sz_string, sizeof(sz_string), "%d", get_pid_calc());
+    vLCD_HD44780_Puts(12, 1, sz_string);
 }      
 
 /******************************************************************************/
@@ -267,6 +273,16 @@ void hmi_dashboard_update_button(button_id_t button_id, button_press_type_t butt
         break;
     case BUTTON_LEFT_ID:
         hmi_dashboard_decrement_index();
+        switch (button_press_type)
+        {
+        case BUTTON_SHORT_PRESS:
+            break;
+        case BUTTON_LONG_PRESS:
+            hmi_set_screen(HMI_ID_SCREEN_MENU);
+            break;
+        default:
+            break;
+        }
         break;
     case BUTTON_RIGHT_ID:
         hmi_dashboard_increment_index();

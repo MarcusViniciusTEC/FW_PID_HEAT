@@ -2,11 +2,13 @@
 #include "hmi.h"
 #include "hmi_types.h"
 
+#include "LCD_HD44780.h"
 
 void hmi_intro_init(void)
 {
 
 }
+
 void hmi_intro_show_screen(void)
 {
     vLCD_HD44780_Clear();

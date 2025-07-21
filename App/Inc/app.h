@@ -9,7 +9,7 @@ extern volatile uint32_t app_execution_rate_1ms_timer;
 
 #define app_pexecution_rate_1ms_timer (&app_execution_rate_1ms_timer)
 
-#define APP_EXECUTION_RATE_1MS_TIME    100
+#define APP_EXECUTION_RATE_1MS_TIME   0
 
 #define R0  (float) 100.0
 #define A   (float) 0.0039083
@@ -50,11 +50,29 @@ typedef struct
 
 }app_temp_t;
 
+
+
+typedef enum
+{
+    LAMP_STATE_IDLE = 0U,
+    LAMP_STATE_START,
+    LAMP_STATE_ON,
+    LAMP_STATE_WAIT_DELAY_ON,
+    LAMP_STATE_OFF,
+    LAMP_STATE_WAIT_DELAY_OFF
+}lamp_pwm_states_t;
+
+typedef struct 
+{
+    lamp_pwm_states_t state;
+    uint16_t time_lamp_on;
+    uint32_t time_lamp_off;
+}app_pwm_lamp_t;
+
 typedef struct
 {
+    app_pwm_lamp_t pwm_lamp;
     app_heat_state_t heat_state;
-
-
 }app_temp_ctrl_t;
 
 

@@ -15,7 +15,6 @@
 extern TIM_HandleTypeDef htim3;
 
 volatile uint32_t app_execution_rate_1ms_timer;
-
 extern uint16_t adc_buffer[ADC_NUMBER_OF_CHANNELS];
 
 uint16_t app_get_temperature(void);
@@ -25,9 +24,9 @@ uint16_t app_get_temperature(void);
 
 app_heat_state_t get_app_heat_state(void);
 static void app_calc_temperature(void);
+static void app_set_time_pwm_lamp(uint16_t time_on, uint16_t time_off);
 
 /***********************************************************************************/
-
 
 static app_temp_t app_temp = {0};
 static app_temp_ctrl_t app_temp_ctrl = {0};
@@ -66,11 +65,9 @@ static void app_read_button_heat_state(void)
     {
         app_temp_ctrl.heat_state = HEAT_OFF;
     }
-
 }
 
 /***********************************************************************************/
-
 
 static void app_set_heat_state(void)
 {
@@ -98,11 +95,57 @@ app_heat_state_t app_get_heat_state(void)
 
 /***********************************************************************************/
 
-
 void app_1ms_clock(void)
 {
-
+    if(app_temp_ctrl.pwm_lamp.time_lamp_off > 0 && app_temp_ctrl.pwm_lamp.state == LAMP_STATE_WAIT_DELAY_OFF)
+    {
+        app_temp_ctrl.pwm_lamp.time_lamp_off --;
+    }
+    if(app_temp_ctrl.pwm_lamp.time_lamp_on > 0 && app_temp_ctrl.pwm_lamp.state == LAMP_STATE_WAIT_DELAY_ON)
+    {
+        app_temp_ctrl.pwm_lamp.time_lamp_on --;
+    }
 }
+
+/***********************************************************************************/
+
+static void app_set_time_pwm_lamp(uint16_t time_on, uint16_t time_off)
+{
+    switch (app_temp_ctrl.pwm_lamp.state)
+    {
+    case LAMP_STATE_IDLE:
+        app_temp_ctrl.pwm_lamp.state = LAMP_STATE_START;
+        break;
+    case LAMP_STATE_START:
+        app_temp_ctrl.pwm_lamp.time_lamp_on = time_on;
+        app_temp_ctrl.pwm_lamp.time_lamp_off = time_off;
+        app_temp_ctrl.pwm_lamp.state = LAMP_STATE_ON;
+        break;
+    case LAMP_STATE_ON:
+        LAMP_ENABLE();
+        app_temp_ctrl.pwm_lamp.state = LAMP_STATE_WAIT_DELAY_ON;
+        break;
+    case LAMP_STATE_WAIT_DELAY_ON:
+        if(app_temp_ctrl.pwm_lamp.time_lamp_on == 0)
+        {
+            app_temp_ctrl.pwm_lamp.state = LAMP_STATE_OFF;
+        }
+        break;
+    case LAMP_STATE_OFF:
+        LAMP_DISABLE();
+        app_temp_ctrl.pwm_lamp.state = LAMP_STATE_WAIT_DELAY_OFF;
+        break;
+    case LAMP_STATE_WAIT_DELAY_OFF:
+        if(app_temp_ctrl.pwm_lamp.time_lamp_off == 0)
+        {
+            app_temp_ctrl.pwm_lamp.state = LAMP_STATE_IDLE;
+        }
+        break;
+    default:
+        break;
+    }
+}
+
 
 /***********************************************************************************/
 
@@ -135,6 +178,7 @@ uint16_t float_to_int(float value_f)
 void app_init(void)
 {
     app_temp_ctrl.heat_state = HEAT_OFF;
+    app_temp_ctrl.pwm_lamp.state = LAMP_STATE_IDLE;
 }
 
 /***********************************************************************************/
@@ -145,7 +189,6 @@ uint16_t app_get_temperature(void)
 }
 
 /***********************************************************************************/
-
 
 static void app_calc_temperature()
 {
@@ -174,11 +217,11 @@ void app_update(void)
         if (app_temp.avarage_celcius >= setpoint_value)
         {
             app_set_fan_porcentage(30);
-            LAMP_DISABLE();
+            LAMP_DISABLE();    
         }
-        else if (app_temp.avarage_celcius <= (setpoint_value - 20))
+        if (app_temp.avarage_celcius <= (setpoint_value - 20))
         {
-            LAMP_ENABLE();
+            app_set_time_pwm_lamp(15000, 1000);   
             app_set_fan_porcentage(2);
         }
         break;
@@ -188,9 +231,7 @@ void app_update(void)
         break;
     default:
         break;
-    }  
-
-
+    }    
 }
 
 /***********************************************************************************/
