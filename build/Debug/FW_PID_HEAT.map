@@ -763,19 +763,40 @@ Discarded input sections
  .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000      0xa9c CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
- .debug_macro   0x0000000000000000      0x221 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
- .debug_macro   0x0000000000000000       0x2e CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
- .debug_macro   0x0000000000000000       0x22 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0x22 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0x8e CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0x51 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000      0x103 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0x6a CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000      0x1df CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000      0x221 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x2e CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0x1c CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0x22 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0xbd CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
@@ -804,6 +825,26 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x8ed CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0x83 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_macro   0x0000000000000000       0xdc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x3a CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x61 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x24 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x43 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x34 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x16 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x35 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000      0x369 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x10 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x16 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x43 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x34 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x10 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x58 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x8e CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x1c CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000      0x177 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x16 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000       0x16 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000000000      0x147 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .group         0x0000000000000000        0xc CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
@@ -3909,7 +3950,7 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
                 0x0000000008000000                g_pfnVectors
                 0x000000000800010c                . = ALIGN (0x4)
 
-.text           0x0000000008000110     0x6a9c
+.text           0x0000000008000110     0x6ae8
                 0x0000000008000110                . = ALIGN (0x4)
  *(.text)
  .text          0x0000000008000110       0x40 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
@@ -4286,597 +4327,609 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
                 0x0000000008004022        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
                 0x0000000008004022                hmi_menu_update_data
  .text.hmi_menu_update_button
-                0x0000000008004024       0x58 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
+                0x0000000008004024       0x4c CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
                 0x0000000008004024                hmi_menu_update_button
  .text.hmi_intro_init
-                0x000000000800407c        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
-                0x000000000800407c                hmi_intro_init
- *fill*         0x000000000800407e        0x2 
+                0x0000000008004070        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
+                0x0000000008004070                hmi_intro_init
+ *fill*         0x0000000008004072        0x2 
  .text.hmi_intro_show_screen
-                0x0000000008004080       0x24 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
-                0x0000000008004080                hmi_intro_show_screen
+                0x0000000008004074       0x24 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
+                0x0000000008004074                hmi_intro_show_screen
  .text.hmi_intro_update_data
-                0x00000000080040a4        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
-                0x00000000080040a4                hmi_intro_update_data
+                0x0000000008004098        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
+                0x0000000008004098                hmi_intro_update_data
  .text.hmi_intro_update_button
-                0x00000000080040a6        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
-                0x00000000080040a6                hmi_intro_update_button
+                0x000000000800409a        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
+                0x000000000800409a                hmi_intro_update_button
+ .text.hmi_pid_show_visible_itens
+                0x000000000800409c       0x50 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+                0x000000000800409c                hmi_pid_show_visible_itens
  .text.hmi_pid_init
-                0x00000000080040a8        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
-                0x00000000080040a8                hmi_pid_init
+                0x00000000080040ec        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+                0x00000000080040ec                hmi_pid_init
  .text.hmi_pid_show_screen
-                0x00000000080040aa        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
-                0x00000000080040aa                hmi_pid_show_screen
+                0x00000000080040ee        0x8 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+                0x00000000080040ee                hmi_pid_show_screen
  .text.hmi_pid_update_data
-                0x00000000080040ac        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
-                0x00000000080040ac                hmi_pid_update_data
+                0x00000000080040f6        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+                0x00000000080040f6                hmi_pid_update_data
  .text.hmi_pid_update_button
-                0x00000000080040ae        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
-                0x00000000080040ae                hmi_pid_update_button
+                0x00000000080040f8        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+                0x00000000080040f8                hmi_pid_update_button
  .text.vLCD_HD44780_Delay_ms
-                0x00000000080040b0        0x8 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x00000000080040fa        0x8 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ *fill*         0x0000000008004102        0x2 
  .text.vLCD_HD44780_Delay_us
-                0x00000000080040b8       0x84 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x0000000008004104       0x84 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .text.vLCD_HD44780_Cmd4bit
-                0x000000000800413c       0x7c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x0000000008004188       0x7c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .text.vLCD_HD44780_Cmd
-                0x00000000080041b8       0x2c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x0000000008004204       0x2c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .text.vLCD_HD44780_Data
-                0x00000000080041e4       0x2c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x0000000008004230       0x2c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .text.vLCD_HD44780_Clear
-                0x0000000008004210       0x10 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
-                0x0000000008004210                vLCD_HD44780_Clear
+                0x000000000800425c       0x10 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x000000000800425c                vLCD_HD44780_Clear
  .text.vLCD_HD44780_DisplayOn
-                0x0000000008004220       0x1c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
-                0x0000000008004220                vLCD_HD44780_DisplayOn
+                0x000000000800426c       0x1c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x000000000800426c                vLCD_HD44780_DisplayOn
  .text.vLCD_HD44780_Init
-                0x000000000800423c       0x74 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
-                0x000000000800423c                vLCD_HD44780_Init
+                0x0000000008004288       0x74 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x0000000008004288                vLCD_HD44780_Init
  .text.vLCD_HD44780_CursorSet
-                0x00000000080042b0       0x3c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
-                0x00000000080042b0                vLCD_HD44780_CursorSet
+                0x00000000080042fc       0x3c CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x00000000080042fc                vLCD_HD44780_CursorSet
  .text.vLCD_HD44780_Puts
-                0x00000000080042ec       0x68 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
-                0x00000000080042ec                vLCD_HD44780_Puts
+                0x0000000008004338       0x68 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x0000000008004338                vLCD_HD44780_Puts
  .text.read_buttons_state
-                0x0000000008004354       0x60 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
-                0x0000000008004354                read_buttons_state
+                0x00000000080043a0       0x60 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+                0x00000000080043a0                read_buttons_state
  .text.adc_get_value
-                0x00000000080043b4        0xc CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
-                0x00000000080043b4                adc_get_value
+                0x0000000008004400        0xc CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x0000000008004400                adc_get_value
  .text.filter_adc
-                0x00000000080043c0       0x48 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
-                0x00000000080043c0                filter_adc
+                0x000000000800440c       0x48 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x000000000800440c                filter_adc
  .text.adc_1ms_clock
-                0x0000000008004408        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
-                0x0000000008004408                adc_1ms_clock
+                0x0000000008004454        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x0000000008004454                adc_1ms_clock
  .text.adc_init
-                0x000000000800440a        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
-                0x000000000800440a                adc_init
+                0x0000000008004456        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x0000000008004456                adc_init
  .text.adc_update
-                0x000000000800440c       0x20 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
-                0x000000000800440c                adc_update
+                0x0000000008004458       0x20 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x0000000008004458                adc_update
  .text.adc_deinit
-                0x000000000800442c        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
-                0x000000000800442c                adc_deinit
- *fill*         0x000000000800442e        0x2 
+                0x0000000008004478        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x0000000008004478                adc_deinit
+ *fill*         0x000000000800447a        0x2 
  .text.app_set_fan_porcentage
-                0x0000000008004430       0x20 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x000000000800447c       0x20 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .text.app_set_heat_state
-                0x0000000008004450       0x48 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x000000000800449c       0x48 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .text.app_set_time_pwm_lamp
-                0x0000000008004498       0x78 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x00000000080044e4       0x78 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .text.app_read_button_heat_state
-                0x0000000008004510       0x34 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x000000000800455c       0x34 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .text.app_led_mcu_status
-                0x0000000008004544       0x30 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x0000000008004590       0x30 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .text.adc_to_resistance
-                0x0000000008004574       0x8c CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x0000000008004574                adc_to_resistance
+                0x00000000080045c0       0x8c CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x00000000080045c0                adc_to_resistance
  .text.resistance_to_temperature
-                0x0000000008004600       0x58 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x0000000008004600                resistance_to_temperature
+                0x000000000800464c       0x58 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x000000000800464c                resistance_to_temperature
  .text.app_get_heat_state
-                0x0000000008004658        0xc CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x0000000008004658                app_get_heat_state
+                0x00000000080046a4        0xc CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x00000000080046a4                app_get_heat_state
  .text.app_1ms_clock
-                0x0000000008004664       0x34 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x0000000008004664                app_1ms_clock
+                0x00000000080046b0       0x34 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x00000000080046b0                app_1ms_clock
  .text.float_to_int
-                0x0000000008004698       0x14 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x0000000008004698                float_to_int
+                0x00000000080046e4       0x14 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x00000000080046e4                float_to_int
  .text.app_calc_temperature
-                0x00000000080046ac       0x64 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x00000000080046f8       0x64 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .text.app_init
-                0x0000000008004710       0x10 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x0000000008004710                app_init
+                0x000000000800475c       0x10 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x000000000800475c                app_init
  .text.app_get_temperature
-                0x0000000008004720        0xc CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x0000000008004720                app_get_temperature
+                0x000000000800476c        0xc CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x000000000800476c                app_get_temperature
  .text.app_update
-                0x000000000800472c       0x80 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x000000000800472c                app_update
+                0x0000000008004778       0x80 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x0000000008004778                app_update
  .text.app_deinit
-                0x00000000080047ac        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
-                0x00000000080047ac                app_deinit
+                0x00000000080047f8        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x00000000080047f8                app_deinit
  .text.pid_1ms_clock
-                0x00000000080047ae        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
-                0x00000000080047ae                pid_1ms_clock
+                0x00000000080047fa        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+                0x00000000080047fa                pid_1ms_clock
  .text.get_pid_calc
-                0x00000000080047b0        0xc CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
-                0x00000000080047b0                get_pid_calc
+                0x00000000080047fc        0xc CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+                0x00000000080047fc                get_pid_calc
  .text.pid_init
-                0x00000000080047bc       0x28 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
-                0x00000000080047bc                pid_init
+                0x0000000008004808       0x28 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+                0x0000000008004808                pid_init
  .text.pid_update
-                0x00000000080047e4       0x24 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
-                0x00000000080047e4                pid_update
+                0x0000000008004830       0x24 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+                0x0000000008004830                pid_update
  .text.pid_deinit
-                0x0000000008004808        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
-                0x0000000008004808                pid_deinit
- *fill*         0x000000000800480a        0x2 
- .text._sbrk    0x000000000800480c       0x48 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
-                0x000000000800480c                _sbrk
+                0x0000000008004854        0x2 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+                0x0000000008004854                pid_deinit
+ *fill*         0x0000000008004856        0x2 
+ .text._sbrk    0x0000000008004858       0x48 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+                0x0000000008004858                _sbrk
  .text.SystemInit
-                0x0000000008004854        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
-                0x0000000008004854                SystemInit
- .text._getpid  0x0000000008004856        0x4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x0000000008004856                _getpid
- .text._kill    0x000000000800485a       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x000000000800485a                _kill
- .text._exit    0x000000000800486a        0xc CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x000000000800486a                _exit
- .text._read    0x0000000008004876       0x20 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x0000000008004876                _read
- .text._write   0x0000000008004896       0x1c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x0000000008004896                _write
- .text._close   0x00000000080048b2        0x6 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x00000000080048b2                _close
- .text._fstat   0x00000000080048b8        0xa CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x00000000080048b8                _fstat
- .text._isatty  0x00000000080048c2        0x4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x00000000080048c2                _isatty
- .text._lseek   0x00000000080048c6        0x4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
-                0x00000000080048c6                _lseek
+                0x00000000080048a0        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+                0x00000000080048a0                SystemInit
+ .text._getpid  0x00000000080048a2        0x4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x00000000080048a2                _getpid
+ .text._kill    0x00000000080048a6       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x00000000080048a6                _kill
+ .text._exit    0x00000000080048b6        0xc CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x00000000080048b6                _exit
+ .text._read    0x00000000080048c2       0x20 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x00000000080048c2                _read
+ .text._write   0x00000000080048e2       0x1c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x00000000080048e2                _write
+ .text._close   0x00000000080048fe        0x6 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x00000000080048fe                _close
+ .text._fstat   0x0000000008004904        0xa CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x0000000008004904                _fstat
+ .text._isatty  0x000000000800490e        0x4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x000000000800490e                _isatty
+ .text._lseek   0x0000000008004912        0x4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x0000000008004912                _lseek
  .text.NMI_Handler
-                0x00000000080048ca        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048ca                NMI_Handler
+                0x0000000008004916        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008004916                NMI_Handler
  .text.HardFault_Handler
-                0x00000000080048cc        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048cc                HardFault_Handler
+                0x0000000008004918        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008004918                HardFault_Handler
  .text.MemManage_Handler
-                0x00000000080048ce        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048ce                MemManage_Handler
+                0x000000000800491a        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x000000000800491a                MemManage_Handler
  .text.BusFault_Handler
-                0x00000000080048d0        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048d0                BusFault_Handler
+                0x000000000800491c        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x000000000800491c                BusFault_Handler
  .text.UsageFault_Handler
-                0x00000000080048d2        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048d2                UsageFault_Handler
+                0x000000000800491e        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x000000000800491e                UsageFault_Handler
  .text.SVC_Handler
-                0x00000000080048d4        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048d4                SVC_Handler
+                0x0000000008004920        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008004920                SVC_Handler
  .text.DebugMon_Handler
-                0x00000000080048d6        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048d6                DebugMon_Handler
+                0x0000000008004922        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008004922                DebugMon_Handler
  .text.PendSV_Handler
-                0x00000000080048d8        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048d8                PendSV_Handler
+                0x0000000008004924        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008004924                PendSV_Handler
  .text.SysTick_Handler
-                0x00000000080048da       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048da                SysTick_Handler
- *fill*         0x00000000080048ea        0x2 
+                0x0000000008004926       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008004926                SysTick_Handler
+ *fill*         0x0000000008004936        0x2 
  .text.DMA1_Channel1_IRQHandler
-                0x00000000080048ec       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048ec                DMA1_Channel1_IRQHandler
+                0x0000000008004938       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008004938                DMA1_Channel1_IRQHandler
  .text.ADC1_2_IRQHandler
-                0x00000000080048fc       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
-                0x00000000080048fc                ADC1_2_IRQHandler
+                0x0000000008004948       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0000000008004948                ADC1_2_IRQHandler
  .text.HAL_MspInit
-                0x000000000800490c       0x44 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x000000000800490c                HAL_MspInit
+                0x0000000008004958       0x44 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000008004958                HAL_MspInit
  .text.HAL_ADC_MspInit
-                0x0000000008004950       0xa8 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x0000000008004950                HAL_ADC_MspInit
+                0x000000000800499c       0xa8 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x000000000800499c                HAL_ADC_MspInit
  .text.HAL_TIM_PWM_MspInit
-                0x00000000080049f8       0x2c CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x00000000080049f8                HAL_TIM_PWM_MspInit
+                0x0000000008004a44       0x2c CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000008004a44                HAL_TIM_PWM_MspInit
  .text.HAL_TIM_MspPostInit
-                0x0000000008004a24       0x50 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x0000000008004a24                HAL_TIM_MspPostInit
+                0x0000000008004a70       0x50 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000008004a70                HAL_TIM_MspPostInit
  .text.MX_GPIO_Init
-                0x0000000008004a74      0x108 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x0000000008004ac0      0x108 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
  .text.MX_DMA_Init
-                0x0000000008004b7c       0x34 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x0000000008004bc8       0x34 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
  .text.Error_Handler
-                0x0000000008004bb0        0x4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
-                0x0000000008004bb0                Error_Handler
+                0x0000000008004bfc        0x4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x0000000008004bfc                Error_Handler
  .text.MX_ADC1_Init
-                0x0000000008004bb4       0x74 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x0000000008004c00       0x74 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
  .text.MX_TIM3_Init
-                0x0000000008004c28       0x80 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x0000000008004c74       0x80 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
  .text.SystemClock_Config
-                0x0000000008004ca8       0x84 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
-                0x0000000008004ca8                SystemClock_Config
- .text.main     0x0000000008004d2c       0x48 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
-                0x0000000008004d2c                main
+                0x0000000008004cf4       0x84 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x0000000008004cf4                SystemClock_Config
+ .text.main     0x0000000008004d78       0x48 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x0000000008004d78                main
  .text.sl_pid_reset
-                0x0000000008004d74        0xc CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
-                0x0000000008004d74                sl_pid_reset
+                0x0000000008004dc0        0xc CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+                0x0000000008004dc0                sl_pid_reset
  .text.sl_pid_init
-                0x0000000008004d80       0x1a CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
-                0x0000000008004d80                sl_pid_init
+                0x0000000008004dcc       0x1a CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+                0x0000000008004dcc                sl_pid_init
  .text.sl_pid_calc
-                0x0000000008004d9a       0x6e CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
-                0x0000000008004d9a                sl_pid_calc
+                0x0000000008004de6       0x6e CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+                0x0000000008004de6                sl_pid_calc
  .text.sl_enter_critical
-                0x0000000008004e08       0x10 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
-                0x0000000008004e08                sl_enter_critical
+                0x0000000008004e54       0x10 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000008004e54                sl_enter_critical
  .text.sl_leave_critical
-                0x0000000008004e18       0x14 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
-                0x0000000008004e18                sl_leave_critical
+                0x0000000008004e64       0x14 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000008004e64                sl_leave_critical
  .text.sl_1ms_clock
-                0x0000000008004e2c       0x50 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
-                0x0000000008004e2c                sl_1ms_clock
- .text.sl_init  0x0000000008004e7c       0x4c CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
-                0x0000000008004e7c                sl_init
+                0x0000000008004e78       0x50 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000008004e78                sl_1ms_clock
+ .text.sl_init  0x0000000008004ec8       0x4c CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000008004ec8                sl_init
  .text.sl_deinit
-                0x0000000008004ec8       0x2c CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
-                0x0000000008004ec8                sl_deinit
+                0x0000000008004f14       0x2c CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000008004f14                sl_deinit
  .text.sl_update
-                0x0000000008004ef4       0x68 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
-                0x0000000008004ef4                sl_update
+                0x0000000008004f40       0x68 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000008004f40                sl_update
  .text.HAL_ADCEx_InjectedConvCpltCallback
-                0x0000000008004f5c        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
-                0x0000000008004f5c                HAL_ADCEx_InjectedConvCpltCallback
+                0x0000000008004fa8        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+                0x0000000008004fa8                HAL_ADCEx_InjectedConvCpltCallback
  .text.HAL_ADC_ConvCpltCallback
-                0x0000000008004f5e        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x0000000008004f5e                HAL_ADC_ConvCpltCallback
+                0x0000000008004faa        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x0000000008004faa                HAL_ADC_ConvCpltCallback
  .text.ADC_DMAConvCplt
-                0x0000000008004f60       0x52 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x0000000008004f60                ADC_DMAConvCplt
+                0x0000000008004fac       0x52 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x0000000008004fac                ADC_DMAConvCplt
  .text.HAL_ADC_ConvHalfCpltCallback
-                0x0000000008004fb2        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x0000000008004fb2                HAL_ADC_ConvHalfCpltCallback
+                0x0000000008004ffe        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x0000000008004ffe                HAL_ADC_ConvHalfCpltCallback
  .text.ADC_DMAHalfConvCplt
-                0x0000000008004fb4        0xa CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x0000000008004fb4                ADC_DMAHalfConvCplt
+                0x0000000008005000        0xa CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x0000000008005000                ADC_DMAHalfConvCplt
  .text.HAL_ADC_LevelOutOfWindowCallback
-                0x0000000008004fbe        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x0000000008004fbe                HAL_ADC_LevelOutOfWindowCallback
+                0x000000000800500a        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x000000000800500a                HAL_ADC_LevelOutOfWindowCallback
  .text.HAL_ADC_IRQHandler
-                0x0000000008004fc0      0x102 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x0000000008004fc0                HAL_ADC_IRQHandler
+                0x000000000800500c      0x102 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x000000000800500c                HAL_ADC_IRQHandler
  .text.HAL_ADC_ErrorCallback
-                0x00000000080050c2        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x00000000080050c2                HAL_ADC_ErrorCallback
+                0x000000000800510e        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x000000000800510e                HAL_ADC_ErrorCallback
  .text.ADC_DMAError
-                0x00000000080050c4       0x1a CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x00000000080050c4                ADC_DMAError
- *fill*         0x00000000080050de        0x2 
+                0x0000000008005110       0x1a CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x0000000008005110                ADC_DMAError
+ *fill*         0x000000000800512a        0x2 
  .text.HAL_ADC_ConfigChannel
-                0x00000000080050e0      0x140 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x00000000080050e0                HAL_ADC_ConfigChannel
+                0x000000000800512c      0x140 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x000000000800512c                HAL_ADC_ConfigChannel
  .text.ADC_Enable
-                0x0000000008005220       0x88 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x0000000008005220                ADC_Enable
+                0x000000000800526c       0x88 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x000000000800526c                ADC_Enable
  .text.HAL_ADC_Start_DMA
-                0x00000000080052a8      0x130 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x00000000080052a8                HAL_ADC_Start_DMA
+                0x00000000080052f4      0x130 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x00000000080052f4                HAL_ADC_Start_DMA
  .text.ADC_ConversionStop_Disable
-                0x00000000080053d8       0x56 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x00000000080053d8                ADC_ConversionStop_Disable
- *fill*         0x000000000800542e        0x2 
+                0x0000000008005424       0x56 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x0000000008005424                ADC_ConversionStop_Disable
+ *fill*         0x000000000800547a        0x2 
  .text.HAL_ADC_Init
-                0x0000000008005430      0x108 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
-                0x0000000008005430                HAL_ADC_Init
+                0x000000000800547c      0x108 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x000000000800547c                HAL_ADC_Init
  .text.HAL_NVIC_SetPriorityGrouping
-                0x0000000008005538       0x24 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x0000000008005538                HAL_NVIC_SetPriorityGrouping
+                0x0000000008005584       0x24 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008005584                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x000000000800555c       0x70 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x000000000800555c                HAL_NVIC_SetPriority
+                0x00000000080055a8       0x70 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000000080055a8                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x00000000080055cc       0x1c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x00000000080055cc                HAL_NVIC_EnableIRQ
+                0x0000000008005618       0x1c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008005618                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x00000000080055e8       0x28 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x00000000080055e8                HAL_SYSTICK_Config
+                0x0000000008005634       0x28 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008005634                HAL_SYSTICK_Config
  .text.DMA_SetConfig
-                0x0000000008005610       0x2c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x000000000800565c       0x2c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .text.HAL_DMA_Init
-                0x000000000800563c       0x6c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                0x000000000800563c                HAL_DMA_Init
+                0x0000000008005688       0x6c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0000000008005688                HAL_DMA_Init
  .text.HAL_DMA_Start_IT
-                0x00000000080056a8       0x76 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                0x00000000080056a8                HAL_DMA_Start_IT
- *fill*         0x000000000800571e        0x2 
+                0x00000000080056f4       0x76 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x00000000080056f4                HAL_DMA_Start_IT
+ *fill*         0x000000000800576a        0x2 
  .text.HAL_DMA_IRQHandler
-                0x0000000008005720      0x144 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                0x0000000008005720                HAL_DMA_IRQHandler
+                0x000000000800576c      0x144 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x000000000800576c                HAL_DMA_IRQHandler
  .text.HAL_GPIO_Init
-                0x0000000008005864      0x224 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0000000008005864                HAL_GPIO_Init
+                0x00000000080058b0      0x224 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000000080058b0                HAL_GPIO_Init
  .text.HAL_GPIO_ReadPin
-                0x0000000008005a88        0xe CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0000000008005a88                HAL_GPIO_ReadPin
+                0x0000000008005ad4        0xe CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008005ad4                HAL_GPIO_ReadPin
  .text.HAL_GPIO_WritePin
-                0x0000000008005a96        0xc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0000000008005a96                HAL_GPIO_WritePin
+                0x0000000008005ae2        0xc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008005ae2                HAL_GPIO_WritePin
  .text.HAL_GPIO_TogglePin
-                0x0000000008005aa2       0x12 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0000000008005aa2                HAL_GPIO_TogglePin
+                0x0000000008005aee       0x12 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008005aee                HAL_GPIO_TogglePin
  .text.HAL_RCCEx_PeriphCLKConfig
-                0x0000000008005ab4      0x118 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
-                0x0000000008005ab4                HAL_RCCEx_PeriphCLKConfig
+                0x0000000008005b00      0x118 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+                0x0000000008005b00                HAL_RCCEx_PeriphCLKConfig
  .text.RCC_Delay
-                0x0000000008005bcc       0x2c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008005c18       0x2c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .text.HAL_RCC_OscConfig
-                0x0000000008005bf8      0x410 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0000000008005bf8                HAL_RCC_OscConfig
+                0x0000000008005c44      0x410 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008005c44                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x0000000008006008       0x54 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0000000008006008                HAL_RCC_GetSysClockFreq
+                0x0000000008006054       0x54 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008006054                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x000000000800605c      0x16c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x000000000800605c                HAL_RCC_ClockConfig
+                0x00000000080060a8      0x16c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x00000000080060a8                HAL_RCC_ClockConfig
  .text.HAL_InitTick
-                0x00000000080061c8       0x4c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x00000000080061c8                HAL_InitTick
+                0x0000000008006214       0x4c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008006214                HAL_InitTick
  .text.HAL_Init
-                0x0000000008006214       0x24 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0000000008006214                HAL_Init
+                0x0000000008006260       0x24 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008006260                HAL_Init
  .text.HAL_IncTick
-                0x0000000008006238       0x18 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0000000008006238                HAL_IncTick
+                0x0000000008006284       0x18 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008006284                HAL_IncTick
  .text.HAL_GetTick
-                0x0000000008006250        0xc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0000000008006250                HAL_GetTick
+                0x000000000800629c        0xc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x000000000800629c                HAL_GetTick
  .text.HAL_Delay
-                0x000000000800625c       0x28 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x000000000800625c                HAL_Delay
+                0x00000000080062a8       0x28 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080062a8                HAL_Delay
  .text.TIM_OC1_SetConfig
-                0x0000000008006284       0x5c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x00000000080062d0       0x5c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_OC3_SetConfig
-                0x00000000080062e0       0x64 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x000000000800632c       0x64 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_OC4_SetConfig
-                0x0000000008006344       0x48 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008006390       0x48 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_Base_SetConfig
-                0x000000000800638c       0x84 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x000000000800638c                TIM_Base_SetConfig
+                0x00000000080063d8       0x84 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x00000000080063d8                TIM_Base_SetConfig
  .text.HAL_TIM_PWM_Init
-                0x0000000008006410       0x58 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008006410                HAL_TIM_PWM_Init
+                0x000000000800645c       0x58 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x000000000800645c                HAL_TIM_PWM_Init
  .text.TIM_OC2_SetConfig
-                0x0000000008006468       0x64 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008006468                TIM_OC2_SetConfig
+                0x00000000080064b4       0x64 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x00000000080064b4                TIM_OC2_SetConfig
  .text.HAL_TIM_PWM_ConfigChannel
-                0x00000000080064cc       0xdc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x00000000080064cc                HAL_TIM_PWM_ConfigChannel
+                0x0000000008006518       0xdc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008006518                HAL_TIM_PWM_ConfigChannel
  .text.TIM_CCxChannelCmd
-                0x00000000080065a8       0x1e CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x00000000080065a8                TIM_CCxChannelCmd
- *fill*         0x00000000080065c6        0x2 
+                0x00000000080065f4       0x1e CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x00000000080065f4                TIM_CCxChannelCmd
+ *fill*         0x0000000008006612        0x2 
  .text.HAL_TIM_PWM_Start
-                0x00000000080065c8       0xdc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x00000000080065c8                HAL_TIM_PWM_Start
+                0x0000000008006614       0xdc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008006614                HAL_TIM_PWM_Start
  .text.HAL_TIMEx_MasterConfigSynchronization
-                0x00000000080066a4       0x6c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                0x00000000080066a4                HAL_TIMEx_MasterConfigSynchronization
+                0x00000000080066f0       0x6c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x00000000080066f0                HAL_TIMEx_MasterConfigSynchronization
  .text.Reset_Handler
-                0x0000000008006710       0x48 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
-                0x0000000008006710                Reset_Handler
+                0x000000000800675c       0x48 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x000000000800675c                Reset_Handler
  .text.Default_Handler
-                0x0000000008006758        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
-                0x0000000008006758                RTC_Alarm_IRQHandler
-                0x0000000008006758                EXTI2_IRQHandler
-                0x0000000008006758                TIM1_CC_IRQHandler
-                0x0000000008006758                PVD_IRQHandler
-                0x0000000008006758                EXTI3_IRQHandler
-                0x0000000008006758                EXTI0_IRQHandler
-                0x0000000008006758                I2C2_EV_IRQHandler
-                0x0000000008006758                SPI1_IRQHandler
-                0x0000000008006758                TAMPER_IRQHandler
-                0x0000000008006758                DMA1_Channel4_IRQHandler
-                0x0000000008006758                USART3_IRQHandler
-                0x0000000008006758                RTC_IRQHandler
-                0x0000000008006758                DMA1_Channel7_IRQHandler
-                0x0000000008006758                CAN1_RX1_IRQHandler
-                0x0000000008006758                TIM4_IRQHandler
-                0x0000000008006758                I2C1_EV_IRQHandler
-                0x0000000008006758                DMA1_Channel6_IRQHandler
-                0x0000000008006758                TIM3_IRQHandler
-                0x0000000008006758                RCC_IRQHandler
-                0x0000000008006758                TIM1_TRG_COM_IRQHandler
-                0x0000000008006758                Default_Handler
-                0x0000000008006758                EXTI15_10_IRQHandler
-                0x0000000008006758                EXTI9_5_IRQHandler
-                0x0000000008006758                SPI2_IRQHandler
-                0x0000000008006758                DMA1_Channel5_IRQHandler
-                0x0000000008006758                EXTI4_IRQHandler
-                0x0000000008006758                USB_LP_CAN1_RX0_IRQHandler
-                0x0000000008006758                USB_HP_CAN1_TX_IRQHandler
-                0x0000000008006758                DMA1_Channel3_IRQHandler
-                0x0000000008006758                TIM1_UP_IRQHandler
-                0x0000000008006758                WWDG_IRQHandler
-                0x0000000008006758                TIM2_IRQHandler
-                0x0000000008006758                TIM1_BRK_IRQHandler
-                0x0000000008006758                EXTI1_IRQHandler
-                0x0000000008006758                USART2_IRQHandler
-                0x0000000008006758                I2C2_ER_IRQHandler
-                0x0000000008006758                DMA1_Channel2_IRQHandler
-                0x0000000008006758                CAN1_SCE_IRQHandler
-                0x0000000008006758                FLASH_IRQHandler
-                0x0000000008006758                USART1_IRQHandler
-                0x0000000008006758                I2C1_ER_IRQHandler
-                0x0000000008006758                USBWakeUp_IRQHandler
- *fill*         0x000000000800675a        0x2 
+                0x00000000080067a4        0x2 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x00000000080067a4                RTC_Alarm_IRQHandler
+                0x00000000080067a4                EXTI2_IRQHandler
+                0x00000000080067a4                TIM1_CC_IRQHandler
+                0x00000000080067a4                PVD_IRQHandler
+                0x00000000080067a4                EXTI3_IRQHandler
+                0x00000000080067a4                EXTI0_IRQHandler
+                0x00000000080067a4                I2C2_EV_IRQHandler
+                0x00000000080067a4                SPI1_IRQHandler
+                0x00000000080067a4                TAMPER_IRQHandler
+                0x00000000080067a4                DMA1_Channel4_IRQHandler
+                0x00000000080067a4                USART3_IRQHandler
+                0x00000000080067a4                RTC_IRQHandler
+                0x00000000080067a4                DMA1_Channel7_IRQHandler
+                0x00000000080067a4                CAN1_RX1_IRQHandler
+                0x00000000080067a4                TIM4_IRQHandler
+                0x00000000080067a4                I2C1_EV_IRQHandler
+                0x00000000080067a4                DMA1_Channel6_IRQHandler
+                0x00000000080067a4                TIM3_IRQHandler
+                0x00000000080067a4                RCC_IRQHandler
+                0x00000000080067a4                TIM1_TRG_COM_IRQHandler
+                0x00000000080067a4                Default_Handler
+                0x00000000080067a4                EXTI15_10_IRQHandler
+                0x00000000080067a4                EXTI9_5_IRQHandler
+                0x00000000080067a4                SPI2_IRQHandler
+                0x00000000080067a4                DMA1_Channel5_IRQHandler
+                0x00000000080067a4                EXTI4_IRQHandler
+                0x00000000080067a4                USB_LP_CAN1_RX0_IRQHandler
+                0x00000000080067a4                USB_HP_CAN1_TX_IRQHandler
+                0x00000000080067a4                DMA1_Channel3_IRQHandler
+                0x00000000080067a4                TIM1_UP_IRQHandler
+                0x00000000080067a4                WWDG_IRQHandler
+                0x00000000080067a4                TIM2_IRQHandler
+                0x00000000080067a4                TIM1_BRK_IRQHandler
+                0x00000000080067a4                EXTI1_IRQHandler
+                0x00000000080067a4                USART2_IRQHandler
+                0x00000000080067a4                I2C2_ER_IRQHandler
+                0x00000000080067a4                DMA1_Channel2_IRQHandler
+                0x00000000080067a4                CAN1_SCE_IRQHandler
+                0x00000000080067a4                FLASH_IRQHandler
+                0x00000000080067a4                USART1_IRQHandler
+                0x00000000080067a4                I2C1_ER_IRQHandler
+                0x00000000080067a4                USBWakeUp_IRQHandler
+ *fill*         0x00000000080067a6        0x2 
  .text.snprintf
-                0x000000000800675c       0x68 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
-                0x000000000800675c                sniprintf
-                0x000000000800675c                snprintf
- .text.__errno  0x00000000080067c4        0xc C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
-                0x00000000080067c4                __errno
+                0x00000000080067a8       0x68 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+                0x00000000080067a8                sniprintf
+                0x00000000080067a8                snprintf
+ .text.__errno  0x0000000008006810        0xc C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+                0x0000000008006810                __errno
  .text.__ssputs_r
-                0x00000000080067d0       0xb4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
-                0x00000000080067d0                __ssputs_r
+                0x000000000800681c       0xb4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x000000000800681c                __ssputs_r
  .text._svfprintf_r
-                0x0000000008006884      0x1fc C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
-                0x0000000008006884                _svfiprintf_r
-                0x0000000008006884                _svfprintf_r
- .text.sqrtf    0x0000000008006a80       0x34 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a(libm_a-wf_sqrt.o)
-                0x0000000008006a80                sqrtf
+                0x00000000080068d0      0x1fc C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x00000000080068d0                _svfiprintf_r
+                0x00000000080068d0                _svfprintf_r
+ .text.sqrtf    0x0000000008006acc       0x34 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a(libm_a-wf_sqrt.o)
+                0x0000000008006acc                sqrtf
  .text.__ieee754_sqrtf
-                0x0000000008006ab4       0xe0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a(libm_a-ef_sqrt.o)
-                0x0000000008006ab4                __ieee754_sqrtf
+                0x0000000008006b00       0xe0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a(libm_a-ef_sqrt.o)
+                0x0000000008006b00                __ieee754_sqrtf
  *(.glue_7)
- .glue_7        0x0000000008006b94        0x0 linker stubs
+ .glue_7        0x0000000008006be0        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0000000008006b94        0x0 linker stubs
+ .glue_7t       0x0000000008006be0        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0000000008006b94        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x0000000008006be0        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.init)
- .init          0x0000000008006b94        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crti.o
-                0x0000000008006b94                _init
- .init          0x0000000008006b98        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtn.o
+ .init          0x0000000008006be0        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crti.o
+                0x0000000008006be0                _init
+ .init          0x0000000008006be4        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtn.o
  *(.fini)
- .fini          0x0000000008006ba0        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crti.o
-                0x0000000008006ba0                _fini
- .fini          0x0000000008006ba4        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtn.o
-                0x0000000008006bac                . = ALIGN (0x4)
-                0x0000000008006bac                _etext = .
+ .fini          0x0000000008006bec        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crti.o
+                0x0000000008006bec                _fini
+ .fini          0x0000000008006bf0        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtn.o
+                0x0000000008006bf8                . = ALIGN (0x4)
+                0x0000000008006bf8                _etext = .
 
-.vfp11_veneer   0x0000000008006bac        0x0
- .vfp11_veneer  0x0000000008006bac        0x0 linker stubs
+.vfp11_veneer   0x0000000008006bf8        0x0
+ .vfp11_veneer  0x0000000008006bf8        0x0 linker stubs
 
-.v4_bx          0x0000000008006bac        0x0
- .v4_bx         0x0000000008006bac        0x0 linker stubs
+.v4_bx          0x0000000008006bf8        0x0
+ .v4_bx         0x0000000008006bf8        0x0 linker stubs
 
-.iplt           0x0000000008006bac        0x0
- .iplt          0x0000000008006bac        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
+.iplt           0x0000000008006bf8        0x0
+ .iplt          0x0000000008006bf8        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.rodata         0x0000000008006bb0      0x4e8
-                0x0000000008006bb0                . = ALIGN (0x4)
+.rodata         0x0000000008006bf8      0x550
+                0x0000000008006bf8                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata._printf_float.str1.1
-                0x0000000008006bb0       0x12 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-nano-vfprintf_float.o)
+                0x0000000008006bf8       0x12 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-nano-vfprintf_float.o)
  .rodata._printf_i.str1.1
-                0x0000000008006bc2       0x22 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x0000000008006c0a       0x22 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
  .rodata._dtoa_r.str1.1
-                0x0000000008006be4       0x8d C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-dtoa.o)
+                0x0000000008006c2c       0x8d C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-dtoa.o)
                                          0x8f (size before relaxing)
  .rodata._Balloc.str1.1
-                0x0000000008006c71       0x59 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
+                0x0000000008006cb9       0x59 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
                                          0x70 (size before relaxing)
  .rodata.__multadd.str1.1
-                0x0000000008006cca       0x11 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
- *fill*         0x0000000008006cca        0x6 
+                0x0000000008006d12       0x11 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
+ *fill*         0x0000000008006d12        0x6 
  .rodata.__mprec_bigtens
-                0x0000000008006cd0       0x28 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
-                0x0000000008006cd0                __mprec_bigtens
+                0x0000000008006d18       0x28 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
+                0x0000000008006d18                __mprec_bigtens
  .rodata.__mprec_tens
-                0x0000000008006cf8       0xc8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
-                0x0000000008006cf8                __mprec_tens
- .rodata.p05.0  0x0000000008006dc0        0xc C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
+                0x0000000008006d40       0xc8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
+                0x0000000008006d40                __mprec_tens
+ .rodata.p05.0  0x0000000008006e08        0xc C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-mprec.o)
  .rodata._setlocale_r.str1.1
-                0x0000000008006dcc        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-locale.o)
+                0x0000000008006e14        0x8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-locale.o)
                                           0x9 (size before relaxing)
  .rodata.str1.1
-                0x0000000008006dd4        0x2 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-locale.o)
+                0x0000000008006e1c        0x2 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-locale.o)
  .rodata.__assert_func.str1.1
-                0x0000000008006dd6       0x3c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-assert.o)
+                0x0000000008006e1e       0x3c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-assert.o)
                                          0x3d (size before relaxing)
  .rodata._ctype_
-                0x0000000008006e12      0x101 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-ctype_.o)
-                0x0000000008006e12                _ctype_
+                0x0000000008006e5a      0x101 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-ctype_.o)
+                0x0000000008006e5a                _ctype_
  .rodata._vfprintf_r.str1.1
-                0x0000000008006f13       0x11 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x0000000008006f5b       0x11 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-nano-vfprintf.o)
  .rodata.hmi_dashboard_show_datahour.str1.4
-                0x0000000008006f24       0x12 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
- *fill*         0x0000000008006f36        0x2 
+                0x0000000008006f6c       0x12 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
+ *fill*         0x0000000008006f7e        0x2 
  .rodata.hmi_dashboard_hide_digit.str1.4
-                0x0000000008006f38        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
- *fill*         0x0000000008006f3a        0x2 
+                0x0000000008006f80        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
+ *fill*         0x0000000008006f82        0x2 
  .rodata.hmi_dashboard_show_setpoint.str1.4
-                0x0000000008006f3c       0x13 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
- *fill*         0x0000000008006f4f        0x1 
+                0x0000000008006f84       0x13 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
+ *fill*         0x0000000008006f97        0x1 
  .rodata.hmi_dashboard_show_temperature.str1.4
-                0x0000000008006f50        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
+                0x0000000008006f98        0xc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
  .rodata.hmi_dashboard_show_heat_state.str1.4
-                0x0000000008006f5c       0x15 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
- *fill*         0x0000000008006f71        0x3 
+                0x0000000008006fa4       0x15 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
+ *fill*         0x0000000008006fb9        0x3 
  .rodata.hmi_dashboard_update_data.str1.4
-                0x0000000008006f74        0x3 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
- *fill*         0x0000000008006f77        0x1 
+                0x0000000008006fbc        0x3 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
+ *fill*         0x0000000008006fbf        0x1 
  .rodata.hmi_menu_show_cursor.str1.4
-                0x0000000008006f78        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
- *fill*         0x0000000008006f7a        0x2 
- .rodata.str1.4
-                0x0000000008006f7c       0x1f CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
- *fill*         0x0000000008006f9b        0x1 
- .rodata.hmi_menu_data
-                0x0000000008006f9c       0x18 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
- .rodata.hmi_intro_show_screen.str1.4
-                0x0000000008006fb4        0xe CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
+                0x0000000008006fc0        0x2 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
  *fill*         0x0000000008006fc2        0x2 
+ .rodata.str1.4
+                0x0000000008006fc4       0x1f CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
+ *fill*         0x0000000008006fe3        0x1 
+ .rodata.hmi_menu_data
+                0x0000000008006fe4       0x18 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
+ .rodata.hmi_intro_show_screen.str1.4
+                0x0000000008006ffc        0xe CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
+ *fill*         0x000000000800700a        0x2 
+ .rodata.hmi_pid_show_visible_itens.str1.4
+                0x000000000800700c        0x6 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ *fill*         0x0000000008007012        0x2 
+ .rodata.str1.4
+                0x0000000008007014       0x2e CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ *fill*         0x0000000008007042        0x2 
+ .rodata.hmi_pid_data
+                0x0000000008007044       0x30 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .rodata.AHBPrescTable
-                0x0000000008006fc4       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
-                0x0000000008006fc4                AHBPrescTable
+                0x0000000008007074       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+                0x0000000008007074                AHBPrescTable
  .rodata.sl_tasks_data_vector
-                0x0000000008006fd4       0xb0 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
-                0x0000000008006fd4                sl_tasks_data_vector
+                0x0000000008007084       0xb0 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000008007084                sl_tasks_data_vector
  .rodata.aPLLMULFactorTable.1
-                0x0000000008007084       0x10 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008007134       0x10 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .rodata.aPredivFactorTable.0
-                0x0000000008007094        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008007144        0x2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .rodata._svfprintf_r.str1.1
-                0x0000000008007096       0x11 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
-                0x00000000080070a8                . = ALIGN (0x4)
- *fill*         0x0000000008007096        0x2 
+                0x0000000008007146       0x11 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x0000000008007158                . = ALIGN (0x4)
+ *fill*         0x0000000008007146        0x2 
 
-.ARM.extab      0x0000000008007098        0x0
-                0x0000000008007098                . = ALIGN (0x4)
+.ARM.extab      0x0000000008007148        0x0
+                0x0000000008007148                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x0000000008007098                . = ALIGN (0x4)
+                0x0000000008007148                . = ALIGN (0x4)
 
-.ARM            0x0000000008007098        0x0
-                0x0000000008007098                . = ALIGN (0x4)
-                0x0000000008007098                __exidx_start = .
+.ARM            0x0000000008007148        0x0
+                0x0000000008007148                . = ALIGN (0x4)
+                0x0000000008007148                __exidx_start = .
  *(.ARM.exidx*)
-                0x0000000008007098                __exidx_end = .
-                0x0000000008007098                . = ALIGN (0x4)
+                0x0000000008007148                __exidx_end = .
+                0x0000000008007148                . = ALIGN (0x4)
 
-.preinit_array  0x0000000008007098        0x0
-                0x0000000008007098                . = ALIGN (0x4)
-                0x0000000008007098                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x0000000008007148        0x0
+                0x0000000008007148                . = ALIGN (0x4)
+                0x0000000008007148                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x0000000008007098                PROVIDE (__preinit_array_end = .)
-                0x0000000008007098                . = ALIGN (0x4)
+                0x0000000008007148                PROVIDE (__preinit_array_end = .)
+                0x0000000008007148                . = ALIGN (0x4)
 
-.init_array     0x0000000008007098        0x4
-                0x0000000008007098                . = ALIGN (0x4)
-                0x0000000008007098                PROVIDE (__init_array_start = .)
+.init_array     0x0000000008007148        0x4
+                0x0000000008007148                . = ALIGN (0x4)
+                0x0000000008007148                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x0000000008007098        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x000000000800709c                PROVIDE (__init_array_end = .)
-                0x000000000800709c                . = ALIGN (0x4)
+ .init_array    0x0000000008007148        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x000000000800714c                PROVIDE (__init_array_end = .)
+                0x000000000800714c                . = ALIGN (0x4)
 
-.fini_array     0x000000000800709c        0x4
-                0x000000000800709c                . = ALIGN (0x4)
+.fini_array     0x000000000800714c        0x4
+                0x000000000800714c                . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x000000000800709c        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
+ .fini_array    0x000000000800714c        0x4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x00000000080070a0                . = ALIGN (0x4)
-                0x00000000080070a0                _sidata = LOADADDR (.data)
+                0x0000000008007150                . = ALIGN (0x4)
+                0x0000000008007150                _sidata = LOADADDR (.data)
 
-.rel.dyn        0x00000000080070a0        0x0
- .rel.iplt      0x00000000080070a0        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
+.rel.dyn        0x0000000008007150        0x0
+ .rel.iplt      0x0000000008007150        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.data           0x0000000020000000      0x27c load address 0x00000000080070a0
+.data           0x0000000020000000      0x27c load address 0x0000000008007150
                 0x0000000020000000                . = ALIGN (0x4)
                 0x0000000020000000                _sdata = .
  *(.data)
@@ -4915,11 +4968,11 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
                 0x000000002000027c                . = ALIGN (0x4)
                 0x000000002000027c                _edata = .
 
-.igot.plt       0x000000002000027c        0x0 load address 0x000000000800731c
+.igot.plt       0x000000002000027c        0x0 load address 0x00000000080073cc
  .igot.plt      0x000000002000027c        0x0 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp/crtbegin.o
                 0x000000002000027c                . = ALIGN (0x4)
 
-.bss            0x000000002000027c      0x2c0 load address 0x000000000800731c
+.bss            0x000000002000027c      0x2c0 load address 0x00000000080073cc
                 0x000000002000027c                _sbss = .
                 0x000000002000027c                __bss_start__ = _sbss
  *(.bss)
@@ -5001,7 +5054,7 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
                 0x000000002000053c                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x000000002000053c      0x604 load address 0x000000000800731c
+                0x000000002000053c      0x604 load address 0x00000000080073cc
                 0x0000000020000540                . = ALIGN (0x8)
  *fill*         0x000000002000053c        0x4 
                 [!provide]                        PROVIDE (end = .)
@@ -5241,7 +5294,7 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
  .comment       0x0000000000000043       0x44 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
  .comment       0x0000000000000043       0x44 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
 
-.debug_frame    0x0000000000000000     0x3ba8
+.debug_frame    0x0000000000000000     0x3bd0
  .debug_frame   0x0000000000000000       0x94 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-nano-vfprintf_float.o)
  .debug_frame   0x0000000000000094       0x60 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-nano-vfprintf_i.o)
  .debug_frame   0x00000000000000f4      0x13c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-findfp.o)
@@ -5288,114 +5341,114 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
  .debug_frame   0x0000000000000f7c      0x170 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
  .debug_frame   0x00000000000010ec       0xc8 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
  .debug_frame   0x00000000000011b4       0x58 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
- .debug_frame   0x000000000000120c       0x50 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
- .debug_frame   0x000000000000125c      0x200 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_frame   0x000000000000145c       0x2c CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
- .debug_frame   0x0000000000001488       0x80 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
- .debug_frame   0x0000000000001508      0x14c CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_frame   0x0000000000001654       0x74 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
- .debug_frame   0x00000000000016c8       0x28 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_frame   0x00000000000016f0       0x30 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_frame   0x0000000000001720      0x190 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_frame   0x00000000000018b0       0xd8 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_frame   0x0000000000001988       0xa8 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_frame   0x0000000000001a30       0xdc CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
- .debug_frame   0x0000000000001b0c       0x94 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
- .debug_frame   0x0000000000001ba0       0xd0 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
- .debug_frame   0x0000000000001c70      0x19c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_frame   0x0000000000001e0c      0x2c8 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_frame   0x00000000000020d4      0x118 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_frame   0x00000000000021ec      0x144 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_frame   0x0000000000002330       0xe4 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_frame   0x0000000000002414       0x5c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_frame   0x0000000000002470      0x184 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_frame   0x00000000000025f4      0x1cc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_frame   0x00000000000027c0      0xb18 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_frame   0x00000000000032d8      0x40c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_frame   0x00000000000036e4       0xac C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubdf3.o)
- .debug_frame   0x0000000000003790       0x50 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivdf3.o)
- .debug_frame   0x00000000000037e0       0xc4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpdf2.o)
- .debug_frame   0x00000000000038a4       0x20 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_unorddf2.o)
- .debug_frame   0x00000000000038c4       0x24 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixdfsi.o)
- .debug_frame   0x00000000000038e8       0x24 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_truncdfsf2.o)
- .debug_frame   0x000000000000390c       0x4c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .debug_frame   0x0000000000003958       0x38 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
- .debug_frame   0x0000000000003990       0xc8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
- .debug_frame   0x0000000000003a58       0x24 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
- .debug_frame   0x0000000000003a7c       0x7c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
- .debug_frame   0x0000000000003af8       0x20 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
- .debug_frame   0x0000000000003b18       0x90 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_frame   0x000000000000120c       0x78 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_frame   0x0000000000001284      0x200 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_frame   0x0000000000001484       0x2c CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+ .debug_frame   0x00000000000014b0       0x80 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+ .debug_frame   0x0000000000001530      0x14c CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_frame   0x000000000000167c       0x74 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+ .debug_frame   0x00000000000016f0       0x28 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x0000000000001718       0x30 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x0000000000001748      0x190 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000000018d8       0xd8 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x00000000000019b0       0xa8 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x0000000000001a58       0xdc CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+ .debug_frame   0x0000000000001b34       0x94 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+ .debug_frame   0x0000000000001bc8       0xd0 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+ .debug_frame   0x0000000000001c98      0x19c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_frame   0x0000000000001e34      0x2c8 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_frame   0x00000000000020fc      0x118 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x0000000000002214      0x144 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x0000000000002358       0xe4 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x000000000000243c       0x5c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x0000000000002498      0x184 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x000000000000261c      0x1cc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x00000000000027e8      0xb18 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_frame   0x0000000000003300      0x40c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_frame   0x000000000000370c       0xac C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000000037b8       0x50 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000003808       0xc4 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000000038cc       0x20 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x00000000000038ec       0x24 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x0000000000003910       0x24 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x0000000000003934       0x4c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000000000003980       0x38 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x00000000000039b8       0xc8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x0000000000003a80       0x24 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x0000000000003aa4       0x7c C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+ .debug_frame   0x0000000000003b20       0x20 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_frame   0x0000000000003b40       0x90 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
 
-.debug_info     0x0000000000000000    0x134d9
+.debug_info     0x0000000000000000    0x136da
  .debug_info    0x0000000000000000      0x610 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
  .debug_info    0x0000000000000610      0x819 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
- .debug_info    0x0000000000000e29      0x3cf CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
- .debug_info    0x00000000000011f8      0x242 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
- .debug_info    0x000000000000143a      0x131 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
- .debug_info    0x000000000000156b      0x997 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_info    0x0000000000001f02      0x336 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
- .debug_info    0x0000000000002238      0x276 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
- .debug_info    0x00000000000024ae      0xe79 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_info    0x0000000000003327      0x324 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
- .debug_info    0x000000000000364b      0x175 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_info    0x00000000000037c0      0x231 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x00000000000039f1      0x787 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_info    0x0000000000004178      0x5f4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x000000000000476c      0xe5f CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x00000000000055cb     0x1446 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
- .debug_info    0x0000000000006a11      0x35e CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
- .debug_info    0x0000000000006d6f      0x549 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
- .debug_info    0x00000000000072b8      0xc3e CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_info    0x0000000000007ef6      0xedd CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_info    0x0000000000008dd3      0xcc9 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x0000000000009a9c      0x7de CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_info    0x000000000000a27a      0x608 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x000000000000a882      0x424 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_info    0x000000000000aca6      0x9cb CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_info    0x000000000000b671      0x7a6 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x000000000000be17     0x3ba0 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_info    0x000000000000f9b7     0x1a8c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_info    0x0000000000011443       0x23 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
- .debug_info    0x0000000000011466      0x8b8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
- .debug_info    0x0000000000011d1e      0x6fa C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
- .debug_info    0x0000000000012418     0x10c1 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_info    0x0000000000000e29      0x3bc CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
+ .debug_info    0x00000000000011e5      0x242 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
+ .debug_info    0x0000000000001427      0x345 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_info    0x000000000000176c      0x997 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_info    0x0000000000002103      0x336 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+ .debug_info    0x0000000000002439      0x276 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+ .debug_info    0x00000000000026af      0xe79 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_info    0x0000000000003528      0x324 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+ .debug_info    0x000000000000384c      0x175 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00000000000039c1      0x231 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x0000000000003bf2      0x787 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x0000000000004379      0x5f4 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x000000000000496d      0xe5f CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00000000000057cc     0x1446 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+ .debug_info    0x0000000000006c12      0x35e CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+ .debug_info    0x0000000000006f70      0x549 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+ .debug_info    0x00000000000074b9      0xc3e CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_info    0x00000000000080f7      0xedd CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_info    0x0000000000008fd4      0xcc9 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x0000000000009c9d      0x7de CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x000000000000a47b      0x608 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x000000000000aa83      0x424 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x000000000000aea7      0x9cb CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x000000000000b872      0x7a6 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x000000000000c018     0x3ba0 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x000000000000fbb8     0x1a8c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x0000000000011644       0x23 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_info    0x0000000000011667      0x8b8 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+ .debug_info    0x0000000000011f1f      0x6fa C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_info    0x0000000000012619     0x10c1 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
 
-.debug_abbrev   0x0000000000000000     0x3eed
+.debug_abbrev   0x0000000000000000     0x3ff3
  .debug_abbrev  0x0000000000000000      0x2a7 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
  .debug_abbrev  0x00000000000002a7      0x241 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
  .debug_abbrev  0x00000000000004e8      0x19b CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
  .debug_abbrev  0x0000000000000683      0x119 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
- .debug_abbrev  0x000000000000079c       0xa6 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
- .debug_abbrev  0x0000000000000842      0x275 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_abbrev  0x0000000000000ab7      0x18f CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
- .debug_abbrev  0x0000000000000c46      0x17a CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
- .debug_abbrev  0x0000000000000dc0      0x2ca CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_abbrev  0x000000000000108a      0x1b0 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
- .debug_abbrev  0x000000000000123a       0xec CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_abbrev  0x0000000000001326      0x145 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_abbrev  0x000000000000146b      0x1c3 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_abbrev  0x000000000000162e      0x1a3 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_abbrev  0x00000000000017d1      0x264 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_abbrev  0x0000000000001a35      0x2ee CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
- .debug_abbrev  0x0000000000001d23      0x14b CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
- .debug_abbrev  0x0000000000001e6e      0x1cc CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
- .debug_abbrev  0x000000000000203a      0x289 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_abbrev  0x00000000000022c3      0x254 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_abbrev  0x0000000000002517      0x34a CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_abbrev  0x0000000000002861      0x246 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_abbrev  0x0000000000002aa7      0x1f9 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_abbrev  0x0000000000002ca0      0x1da CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_abbrev  0x0000000000002e7a      0x2a2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_abbrev  0x000000000000311c      0x22f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_abbrev  0x000000000000334b      0x272 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_abbrev  0x00000000000035bd      0x270 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_abbrev  0x000000000000382d       0x12 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
- .debug_abbrev  0x000000000000383f      0x231 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
- .debug_abbrev  0x0000000000003a70      0x15e C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
- .debug_abbrev  0x0000000000003bce      0x31f C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_abbrev  0x000000000000079c      0x1ac CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_abbrev  0x0000000000000948      0x275 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_abbrev  0x0000000000000bbd      0x18f CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+ .debug_abbrev  0x0000000000000d4c      0x17a CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+ .debug_abbrev  0x0000000000000ec6      0x2ca CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_abbrev  0x0000000000001190      0x1b0 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+ .debug_abbrev  0x0000000000001340       0xec CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x000000000000142c      0x145 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x0000000000001571      0x1c3 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x0000000000001734      0x1a3 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x00000000000018d7      0x264 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x0000000000001b3b      0x2ee CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000000000001e29      0x14b CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+ .debug_abbrev  0x0000000000001f74      0x1cc CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+ .debug_abbrev  0x0000000000002140      0x289 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_abbrev  0x00000000000023c9      0x254 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_abbrev  0x000000000000261d      0x34a CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x0000000000002967      0x246 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x0000000000002bad      0x1f9 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000000000002da6      0x1da CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x0000000000002f80      0x2a2 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000000000003222      0x22f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x0000000000003451      0x272 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000000036c3      0x270 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x0000000000003933       0x12 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_abbrev  0x0000000000003945      0x231 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+ .debug_abbrev  0x0000000000003b76      0x15e C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_abbrev  0x0000000000003cd4      0x31f C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
 
 .debug_loclists
-                0x0000000000000000     0x7804
+                0x0000000000000000     0x782c
  .debug_loclists
                 0x0000000000000000       0x56 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
  .debug_loclists
@@ -5403,53 +5456,55 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
  .debug_loclists
                 0x0000000000000158      0x100 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
  .debug_loclists
-                0x0000000000000258      0x242 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x0000000000000258       0x28 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_loclists
-                0x000000000000049a       0x3f CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+                0x0000000000000280      0x242 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .debug_loclists
-                0x00000000000004d9       0x72 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x00000000000004c2       0x3f CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
  .debug_loclists
-                0x000000000000054b      0x16b CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x0000000000000501       0x72 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
  .debug_loclists
-                0x00000000000006b6       0x3b CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+                0x0000000000000573      0x16b CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .debug_loclists
-                0x00000000000006f1       0x46 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+                0x00000000000006de       0x3b CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
  .debug_loclists
-                0x0000000000000737       0xa5 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+                0x0000000000000719       0x46 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
  .debug_loclists
-                0x00000000000007dc      0x25b CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x000000000000075f       0xa5 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_loclists
-                0x0000000000000a37       0x83 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000000000804      0x25b CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
  .debug_loclists
-                0x0000000000000aba      0x12e CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+                0x0000000000000a5f       0x83 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_loclists
-                0x0000000000000be8       0xd9 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000000000ae2      0x12e CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
  .debug_loclists
-                0x0000000000000cc1      0x4fb CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+                0x0000000000000c10       0xd9 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
  .debug_loclists
-                0x00000000000011bc      0x71f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x0000000000000ce9      0x4fb CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
  .debug_loclists
-                0x00000000000018db      0x4c4 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000000000011e4      0x71f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
  .debug_loclists
-                0x0000000000001d9f      0x4c7 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0000000000001903      0x4c4 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_loclists
-                0x0000000000002266      0x2ea CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000000001dc7      0x4c7 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .debug_loclists
-                0x0000000000002550      0x2c5 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+                0x000000000000228e      0x2ea CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .debug_loclists
-                0x0000000000002815      0x3f8 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000000002578      0x2c5 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
  .debug_loclists
-                0x0000000000002c0d       0xc9 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x000000000000283d      0x3f8 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .debug_loclists
-                0x0000000000002cd6     0x3327 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000000002c35       0xc9 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_loclists
-                0x0000000000005ffd     0x124a CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x0000000000002cfe     0x3327 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .debug_loclists
-                0x0000000000007247      0x123 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+                0x0000000000006025     0x124a CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .debug_loclists
-                0x000000000000736a      0x49a C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x000000000000726f      0x123 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+ .debug_loclists
+                0x0000000000007392      0x49a C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
 
-.debug_aranges  0x0000000000000000     0x10b0
+.debug_aranges  0x0000000000000000     0x10b8
  .debug_aranges
                 0x0000000000000000       0x68 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
  .debug_aranges
@@ -5459,64 +5514,64 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
  .debug_aranges
                 0x0000000000000160       0x38 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
  .debug_aranges
-                0x0000000000000198       0x38 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+                0x0000000000000198       0x40 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_aranges
-                0x00000000000001d0       0xb8 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x00000000000001d8       0xb8 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .debug_aranges
-                0x0000000000000288       0x20 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+                0x0000000000000290       0x20 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
  .debug_aranges
-                0x00000000000002a8       0x48 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x00000000000002b0       0x48 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
  .debug_aranges
-                0x00000000000002f0       0x90 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x00000000000002f8       0x90 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .debug_aranges
-                0x0000000000000380       0x40 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+                0x0000000000000388       0x40 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
  .debug_aranges
-                0x00000000000003c0       0x20 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+                0x00000000000003c8       0x20 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
  .debug_aranges
-                0x00000000000003e0       0x28 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+                0x00000000000003e8       0x28 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_aranges
-                0x0000000000000408       0xa8 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x0000000000000410       0xa8 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
  .debug_aranges
-                0x00000000000004b0       0x70 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x00000000000004b8       0x70 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_aranges
-                0x0000000000000520       0x48 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000000000528       0x48 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_aranges
-                0x0000000000000568       0x50 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x0000000000000570       0x50 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
  .debug_aranges
-                0x00000000000005b8       0x48 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+                0x00000000000005c0       0x48 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
  .debug_aranges
-                0x0000000000000600       0x60 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000000000608       0x60 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
  .debug_aranges
-                0x0000000000000660       0x80 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+                0x0000000000000668       0x80 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
  .debug_aranges
-                0x00000000000006e0       0xf0 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x00000000000006e8       0xf0 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
  .debug_aranges
-                0x00000000000007d0       0x90 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000000000007d8       0x90 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_aranges
-                0x0000000000000860       0x80 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0000000000000868       0x80 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .debug_aranges
-                0x00000000000008e0       0x58 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000000000008e8       0x58 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .debug_aranges
-                0x0000000000000938       0x30 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+                0x0000000000000940       0x30 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
  .debug_aranges
-                0x0000000000000968       0x90 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000000000970       0x90 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .debug_aranges
-                0x00000000000009f8       0xe0 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000000000a00       0xe0 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_aranges
-                0x0000000000000ad8      0x3d0 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000000000ae0      0x3d0 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .debug_aranges
-                0x0000000000000ea8      0x168 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x0000000000000eb0      0x168 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .debug_aranges
-                0x0000000000001010       0x28 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x0000000000001018       0x28 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
  .debug_aranges
-                0x0000000000001038       0x28 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+                0x0000000000001040       0x28 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
  .debug_aranges
-                0x0000000000001060       0x20 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+                0x0000000000001068       0x20 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
  .debug_aranges
-                0x0000000000001080       0x30 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x0000000000001088       0x30 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
 
 .debug_rnglists
-                0x0000000000000000      0xcc1
+                0x0000000000000000      0xcc7
  .debug_rnglists
                 0x0000000000000000       0x49 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
  .debug_rnglists
@@ -5526,63 +5581,63 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
  .debug_rnglists
                 0x00000000000000f9       0x25 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
  .debug_rnglists
-                0x000000000000011e       0x25 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+                0x000000000000011e       0x2b CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
  .debug_rnglists
-                0x0000000000000143       0x86 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+                0x0000000000000149       0x86 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
  .debug_rnglists
-                0x00000000000001c9       0x13 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+                0x00000000000001cf       0x13 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
  .debug_rnglists
-                0x00000000000001dc       0x31 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+                0x00000000000001e2       0x31 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
  .debug_rnglists
-                0x000000000000020d       0x69 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+                0x0000000000000213       0x69 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
  .debug_rnglists
-                0x0000000000000276       0x2b CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+                0x000000000000027c       0x2b CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
  .debug_rnglists
-                0x00000000000002a1       0x13 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+                0x00000000000002a7       0x13 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
  .debug_rnglists
-                0x00000000000002b4       0x1a CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+                0x00000000000002ba       0x1a CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_rnglists
-                0x00000000000002ce       0x79 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+                0x00000000000002d4       0x79 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
  .debug_rnglists
-                0x0000000000000347       0x4f CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+                0x000000000000034d       0x4f CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_rnglists
-                0x0000000000000396       0x32 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x000000000000039c       0x32 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_rnglists
-                0x00000000000003c8       0x3a CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+                0x00000000000003ce       0x3a CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
  .debug_rnglists
-                0x0000000000000402       0x31 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+                0x0000000000000408       0x31 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
  .debug_rnglists
-                0x0000000000000433       0x4f CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+                0x0000000000000439       0x4f CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
  .debug_rnglists
-                0x0000000000000482       0x62 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+                0x0000000000000488       0x62 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
  .debug_rnglists
-                0x00000000000004e4       0xb8 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+                0x00000000000004ea       0xb8 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
  .debug_rnglists
-                0x000000000000059c       0x97 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000000000005a2       0x97 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_rnglists
-                0x0000000000000633       0x5e CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0000000000000639       0x5e CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
  .debug_rnglists
-                0x0000000000000691       0x3f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000000000697       0x3f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .debug_rnglists
-                0x00000000000006d0       0x2f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+                0x00000000000006d6       0x2f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
  .debug_rnglists
-                0x00000000000006ff       0x7d CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000000000705       0x7d CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .debug_rnglists
-                0x000000000000077c       0xa3 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000000000782       0xa3 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_rnglists
-                0x000000000000081f      0x300 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000000000825      0x300 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .debug_rnglists
-                0x0000000000000b1f      0x11a CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x0000000000000b25      0x11a CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .debug_rnglists
-                0x0000000000000c39       0x19 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x0000000000000c3f       0x19 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
  .debug_rnglists
-                0x0000000000000c52       0x19 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+                0x0000000000000c58       0x19 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
  .debug_rnglists
-                0x0000000000000c6b       0x13 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+                0x0000000000000c71       0x13 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
  .debug_rnglists
-                0x0000000000000c7e       0x43 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x0000000000000c84       0x43 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
 
-.debug_macro    0x0000000000000000    0x1b191
+.debug_macro    0x0000000000000000    0x1b291
  .debug_macro   0x0000000000000000      0x245 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
  .debug_macro   0x0000000000000245      0xa9c CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
  .debug_macro   0x0000000000000ce1       0x22 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
@@ -5653,108 +5708,109 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
  .debug_macro   0x0000000000016bfe      0x244 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
  .debug_macro   0x0000000000016e42       0x16 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
  .debug_macro   0x0000000000016e58      0x235 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
- .debug_macro   0x000000000001708d      0x1ea CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
- .debug_macro   0x0000000000017277      0x2b5 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_macro   0x000000000001752c       0x34 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_macro   0x0000000000017560       0x22 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_macro   0x0000000000017582       0xe2 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_macro   0x0000000000017664       0x70 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_macro   0x00000000000176d4      0x1e0 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
- .debug_macro   0x00000000000178b4      0x1cb CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
- .debug_macro   0x0000000000017a7f       0x16 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
- .debug_macro   0x0000000000017a95      0x2f0 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_macro   0x0000000000017d85       0x97 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_macro   0x0000000000017e1c       0xfd CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_macro   0x0000000000017f19      0x19b CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_macro   0x00000000000180b4       0x56 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_macro   0x000000000001810a      0x221 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
- .debug_macro   0x000000000001832b       0x10 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
- .debug_macro   0x000000000001833b       0xff CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x000000000001843a       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x000000000001844a       0x5b CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x00000000000184a5       0x94 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x0000000000018539       0x57 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x0000000000018590      0x23c CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_macro   0x00000000000187cc      0x1ad CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_macro   0x0000000000018979      0x274 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018bed       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018bfd       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018c0d       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018c1d       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018c2d       0x1c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018c49       0x52 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018c9b       0x22 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018cbd       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018ccd       0x52 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018d1f       0xcf CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018dee       0x1c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018e0a       0x3d CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018e47       0x35 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018e7c      0x12c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018fa8       0x16 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018fbe       0x16 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018fd4       0x29 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x0000000000018ffd      0x242 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000001923f       0x1c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000001925b       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000001926b      0x18a CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x00000000000193f5       0x16 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x000000000001940b       0xce CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_macro   0x00000000000194d9      0x205 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_macro   0x00000000000196de       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_macro   0x00000000000196ee       0x58 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_macro   0x0000000000019746       0x76 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_macro   0x00000000000197bc      0x1bc CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_macro   0x0000000000019978      0x2b9 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
- .debug_macro   0x0000000000019c31       0x7d CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
- .debug_macro   0x0000000000019cae      0x33a CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
- .debug_macro   0x0000000000019fe8       0x16 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
- .debug_macro   0x0000000000019ffe      0x1bf CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_macro   0x000000000001a1bd      0x1ca CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_macro   0x000000000001a387      0x1ad CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_macro   0x000000000001a534      0x1ad CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_macro   0x000000000001a6e1      0x218 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_macro   0x000000000001a8f9      0x1ad CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_macro   0x000000000001aaa6      0x1bf CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_macro   0x000000000001ac65      0x1d1 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_macro   0x000000000001ae36      0x1ae CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_macro   0x000000000001afe4      0x1ad CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_macro   0x000000000001708d      0x2d4 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000017361       0x16 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_macro   0x0000000000017377      0x2b5 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_macro   0x000000000001762c       0x34 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_macro   0x0000000000017660       0x22 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_macro   0x0000000000017682       0xe2 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_macro   0x0000000000017764       0x70 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_macro   0x00000000000177d4      0x1e0 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+ .debug_macro   0x00000000000179b4      0x1cb CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+ .debug_macro   0x0000000000017b7f       0x16 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+ .debug_macro   0x0000000000017b95      0x2f0 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_macro   0x0000000000017e85       0x97 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_macro   0x0000000000017f1c       0xfd CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_macro   0x0000000000018019      0x19b CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_macro   0x00000000000181b4       0x56 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_macro   0x000000000001820a      0x221 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+ .debug_macro   0x000000000001842b       0x10 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+ .debug_macro   0x000000000001843b       0xff CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x000000000001853a       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x000000000001854a       0x5b CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x00000000000185a5       0x94 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0000000000018639       0x57 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x0000000000018690      0x23c CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_macro   0x00000000000188cc      0x1ad CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_macro   0x0000000000018a79      0x274 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018ced       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018cfd       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018d0d       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018d1d       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018d2d       0x1c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018d49       0x52 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018d9b       0x22 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018dbd       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018dcd       0x52 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018e1f       0xcf CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018eee       0x1c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018f0a       0x3d CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018f47       0x35 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x0000000000018f7c      0x12c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000190a8       0x16 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000190be       0x16 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000190d4       0x29 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000190fd      0x242 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x000000000001933f       0x1c CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x000000000001935b       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x000000000001936b      0x18a CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000194f5       0x16 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x000000000001950b       0xce CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_macro   0x00000000000195d9      0x205 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_macro   0x00000000000197de       0x10 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_macro   0x00000000000197ee       0x58 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_macro   0x0000000000019846       0x76 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_macro   0x00000000000198bc      0x1bc CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_macro   0x0000000000019a78      0x2b9 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000000000019d31       0x7d CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+ .debug_macro   0x0000000000019dae      0x33a CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+ .debug_macro   0x000000000001a0e8       0x16 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+ .debug_macro   0x000000000001a0fe      0x1bf CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_macro   0x000000000001a2bd      0x1ca CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_macro   0x000000000001a487      0x1ad CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_macro   0x000000000001a634      0x1ad CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_macro   0x000000000001a7e1      0x218 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_macro   0x000000000001a9f9      0x1ad CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_macro   0x000000000001aba6      0x1bf CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_macro   0x000000000001ad65      0x1d1 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_macro   0x000000000001af36      0x1ae CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_macro   0x000000000001b0e4      0x1ad CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
 
-.debug_line     0x0000000000000000    0x1894f
+.debug_line     0x0000000000000000    0x18aff
  .debug_line    0x0000000000000000      0x9e4 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
  .debug_line    0x00000000000009e4      0xd00 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
- .debug_line    0x00000000000016e4      0x98c CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
- .debug_line    0x0000000000002070      0x84c CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
- .debug_line    0x00000000000028bc      0x7ac CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
- .debug_line    0x0000000000003068      0xacb CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
- .debug_line    0x0000000000003b33      0x7bf CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
- .debug_line    0x00000000000042f2      0x7e2 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
- .debug_line    0x0000000000004ad4      0xc5c CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
- .debug_line    0x0000000000005730      0x863 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
- .debug_line    0x0000000000005f93      0x3b9 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
- .debug_line    0x000000000000634c      0x767 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x0000000000006ab3      0x748 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
- .debug_line    0x00000000000071fb      0x925 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x0000000000007b20      0x854 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x0000000000008374      0xc06 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
- .debug_line    0x0000000000008f7a      0x498 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
- .debug_line    0x0000000000009412      0xc6f CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
- .debug_line    0x000000000000a081     0x101b CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_line    0x000000000000b09c     0x1347 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_line    0x000000000000c3e3      0xb4b CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x000000000000cf2e      0xf2f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_line    0x000000000000de5d      0xad1 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x000000000000e92e      0x946 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_line    0x000000000000f274     0x10a3 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_line    0x0000000000010317      0x9d5 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x0000000000010cec     0x4e1c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_line    0x0000000000015b08     0x207d CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_line    0x0000000000017b85       0x78 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
- .debug_line    0x0000000000017bfd      0x336 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
- .debug_line    0x0000000000017f33      0x185 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
- .debug_line    0x00000000000180b8      0x897 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_line    0x00000000000016e4      0x97e CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_menu.c.obj
+ .debug_line    0x0000000000002062      0x84c CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
+ .debug_line    0x00000000000028ae      0x96a CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+ .debug_line    0x0000000000003218      0xacb CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_line    0x0000000000003ce3      0x7bf CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+ .debug_line    0x00000000000044a2      0x7e2 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+ .debug_line    0x0000000000004c84      0xc5c CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_line    0x00000000000058e0      0x863 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+ .debug_line    0x0000000000006143      0x3b9 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000000064fc      0x767 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x0000000000006c63      0x748 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000000073ab      0x925 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x0000000000007cd0      0x854 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x0000000000008524      0xc06 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+ .debug_line    0x000000000000912a      0x498 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+ .debug_line    0x00000000000095c2      0xc6f CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+ .debug_line    0x000000000000a231     0x101b CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_line    0x000000000000b24c     0x1347 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_line    0x000000000000c593      0xb4b CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x000000000000d0de      0xf2f CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x000000000000e00d      0xad1 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x000000000000eade      0x946 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x000000000000f424     0x10a3 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x00000000000104c7      0x9d5 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x0000000000010e9c     0x4e1c CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x0000000000015cb8     0x207d CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x0000000000017d35       0x78 CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_line    0x0000000000017dad      0x336 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+ .debug_line    0x00000000000180e3      0x185 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_line    0x0000000000018268      0x897 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
 
-.debug_str      0x0000000000000000    0x93a7d
+.debug_str      0x0000000000000000    0x93c4c
  .debug_str     0x0000000000000000    0x86f45 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi.c.obj
                                       0x872ac (size before relaxing)
  .debug_str     0x0000000000086f45     0x3fb5 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_dashboard.c.obj
@@ -5763,61 +5819,61 @@ LOAD C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/
                                       0x87111 (size before relaxing)
  .debug_str     0x000000000008b163       0x5a CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_intro.c.obj
                                       0x86f09 (size before relaxing)
- .debug_str     0x000000000008b1bd       0x61 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
-                                      0x868aa (size before relaxing)
- .debug_str     0x000000000008b21e      0xd15 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
+ .debug_str     0x000000000008b1bd      0x230 CMakeFiles/FW_PID_HEAT.dir/HMI/Src/hmi_pid.c.obj
+                                      0x8a2d0 (size before relaxing)
+ .debug_str     0x000000000008b3ed      0xd15 CMakeFiles/FW_PID_HEAT.dir/HD44780/LCD_HD44780.c.obj
                                       0x87576 (size before relaxing)
- .debug_str     0x000000000008bf33       0x79 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
+ .debug_str     0x000000000008c102       0x79 CMakeFiles/FW_PID_HEAT.dir/App/Src/buttons.c.obj
                                       0x869a8 (size before relaxing)
- .debug_str     0x000000000008bfac      0x109 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
+ .debug_str     0x000000000008c17b      0x109 CMakeFiles/FW_PID_HEAT.dir/App/Src/adc.c.obj
                                       0x868f3 (size before relaxing)
- .debug_str     0x000000000008c0b5      0xf79 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
+ .debug_str     0x000000000008c284      0xf79 CMakeFiles/FW_PID_HEAT.dir/App/Src/app.c.obj
                                       0x8b440 (size before relaxing)
- .debug_str     0x000000000008d02e      0x185 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
+ .debug_str     0x000000000008d1fd      0x185 CMakeFiles/FW_PID_HEAT.dir/App/Src/pid.c.obj
                                       0x86d57 (size before relaxing)
- .debug_str     0x000000000008d1b3      0x515 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x000000000008d382      0x515 CMakeFiles/FW_PID_HEAT.dir/Core/Src/sysmem.c.obj
                                        0x602d (size before relaxing)
- .debug_str     0x000000000008d6c8       0xf6 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_str     0x000000000008d897       0xf6 CMakeFiles/FW_PID_HEAT.dir/Core/Src/system_stm32f1xx.c.obj
                                       0x86486 (size before relaxing)
- .debug_str     0x000000000008d7be     0x1ca5 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x000000000008d98d     0x1ca5 CMakeFiles/FW_PID_HEAT.dir/Core/Src/syscalls.c.obj
                                        0x9876 (size before relaxing)
- .debug_str     0x000000000008f463      0x774 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_str     0x000000000008f632      0x774 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_it.c.obj
                                       0x8718e (size before relaxing)
- .debug_str     0x000000000008fbd7      0x463 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_str     0x000000000008fda6      0x463 CMakeFiles/FW_PID_HEAT.dir/Core/Src/stm32f1xx_hal_msp.c.obj
                                       0x8723a (size before relaxing)
- .debug_str     0x000000000009003a      0x3f9 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
+ .debug_str     0x0000000000090209      0x3f9 CMakeFiles/FW_PID_HEAT.dir/Core/Src/main.c.obj
                                       0x8b366 (size before relaxing)
- .debug_str     0x0000000000090433       0xd7 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
+ .debug_str     0x0000000000090602       0xd7 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl_lib.c.obj
                                        0x3e52 (size before relaxing)
- .debug_str     0x000000000009050a      0x5a4 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
+ .debug_str     0x00000000000906d9      0x5a4 CMakeFiles/FW_PID_HEAT.dir/Middleware/SuperLoop/sl.c.obj
                                       0x8ae61 (size before relaxing)
- .debug_str     0x0000000000090aae      0x458 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_str     0x0000000000090c7d      0x458 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
                                       0x86b52 (size before relaxing)
- .debug_str     0x0000000000090f06      0x277 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_str     0x00000000000910d5      0x277 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
                                       0x86b6a (size before relaxing)
- .debug_str     0x000000000009117d      0x2f3 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_str     0x000000000009134c      0x2f3 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
                                       0x86b05 (size before relaxing)
- .debug_str     0x0000000000091470      0x21b CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_str     0x000000000009163f      0x21b CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
                                       0x8682f (size before relaxing)
- .debug_str     0x000000000009168b      0x2f6 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_str     0x000000000009185a      0x2f6 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
                                       0x8680c (size before relaxing)
- .debug_str     0x0000000000091981      0x120 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x0000000000091b50      0x120 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
                                       0x86605 (size before relaxing)
- .debug_str     0x0000000000091aa1      0x227 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_str     0x0000000000091c70      0x227 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
                                       0x868b5 (size before relaxing)
- .debug_str     0x0000000000091cc8      0x327 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_str     0x0000000000091e97      0x327 CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                                       0x86bb9 (size before relaxing)
- .debug_str     0x0000000000091fef      0xe0e CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x00000000000921be      0xe0e CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
                                       0x878b7 (size before relaxing)
- .debug_str     0x0000000000092dfd      0x4cc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x0000000000092fcc      0x4cc CMakeFiles/FW_PID_HEAT.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
                                       0x870c3 (size before relaxing)
- .debug_str     0x00000000000932c9       0x6d CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_str     0x0000000000093498       0x6d CMakeFiles/FW_PID_HEAT.dir/Core/Startup/startup_stm32f103c8tx.s.obj
                                          0xb5 (size before relaxing)
- .debug_str     0x0000000000093336      0x436 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
+ .debug_str     0x0000000000093505      0x436 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-snprintf.o)
                                         0x577 (size before relaxing)
- .debug_str     0x000000000009376c       0x58 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_str     0x000000000009393b       0x58 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-errno.o)
                                         0x523 (size before relaxing)
- .debug_str     0x00000000000937c4      0x2b9 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_str     0x0000000000093993      0x2b9 C:/ST/STM32CubeCLT/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-nano-svfprintf.o)
                                         0x872 (size before relaxing)
 
 .debug_line_str
